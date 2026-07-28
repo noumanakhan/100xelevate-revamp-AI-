@@ -1,0 +1,8 @@
+⨯ Another next dev server is already running.
+
+- Local:        http://localhost:3000
+- PID:          23468
+- Dir:          D:\projects\100xelevate-revamp\100xelevate
+- Log:          .next\dev\logs\next-development.log
+
+Run taskkill /PID 23468 /F to stop it.

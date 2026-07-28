@@ -1,0 +1,126 @@
+import type { Metadata } from "next";
+import { headlessShopifySlugs } from "@/lib/city-slugs";
+import LightningFast from "@/components/core/services/headlessShopify/LightningFast";
+import FullControl from "@/components/core/services/headlessShopify/FullControl";
+import HeadlessShopifyAgency from "@/components/core/services/headlessShopify/HeadlessShopifyAgency";
+import TechPartnership from "@/components/core/services/headlessShopify/TechPartnership";
+import TrustedHeadless from "@/components/core/services/headlessShopify/TrustedHeadless";
+import OurWorkCarousel from "@/components/core/services/headlessShopify/OurWorkCarousel";
+import { OurWork } from "@/components/core/services/shopifyUXandUIDesign/OurWork";
+import { WorkGrid } from "@/components/core/services/shopifyUXandUIDesign/WorkGrid";
+import { RealResults } from "@/components/core/services/shopifyUXandUIDesign/RealResults";
+import { FAQsSection } from "@/components/core/services/shopifyUXandUIDesign/FAQsSection";
+import { getShopifyHeadlessFaqs } from "@/constants/services/headlessShopifySerivice.constants";
+import { LetsTalk } from "@/components/core/services/shopifyPlusDevelopment/LetsTalk";
+import { LetsTalkAnalytics } from "@/components/core/services/shopifyAnalyticsTrackingSetup/LetsTalkAnalytics";
+import Image from "next/image";
+import { LocationsSection } from "@/components/core/services/shopifyAppDevelopmentAgency/LocationsSection";
+import HeadlessShopifyHeroSection from "@/components/core/services/headlessShopify/HeadlessShopifyHeroSection";
+import HighPerformanceHeadless from "@/components/core/services/HighPerformanceHeadless";
+import AskAISection from "@/components/core/home/AskAISection";
+
+export const dynamicParams = false;
+
+export function generateStaticParams() {
+  return headlessShopifySlugs.map((slug) => ({ slug }));
+}
+
+type Props = { params: Promise<{ slug: string }> };
+
+function formatCityName(slug: string): string {
+  // "headless-shopify-new-york-new-york" → "New York, New York"
+  const withoutPrefix = slug.replace(/^headless-shopify-/, "");
+  return withoutPrefix
+    .split("-")
+    .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
+    .join(" ");
+}
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { slug } = await params;
+  const city = formatCityName(slug);
+  const canonicalUrl = `https://100xelevate.com/headless-shopify/${slug}/`;
+  return {
+    title: `Headless Shopify Agency in ${city} | 100xElevate`,
+    description: `100xElevate is a leading headless Shopify agency serving ${city}. We design, build, and optimise high-performance Shopify stores for brands in ${city}.`,
+    alternates: { canonical: canonicalUrl },
+    openGraph: {
+      title: `Headless Shopify Agency in ${city} | 100xElevate`,
+      description: `100xElevate is a leading headless Shopify agency serving ${city}.`,
+      url: canonicalUrl,
+      type: "website",
+      siteName: "100xElevate",
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: `Headless Shopify Agency in ${city} | 100xElevate`,
+      description: `100xElevate is a leading headless Shopify agency serving ${city}.`,
+    },
+  };
+}
+
+export default async function HeadlessShopifyCityPage({ params }: Props) {
+  const { slug } = await params;
+  const city = formatCityName(slug);
+  return (
+    <>
+      <main>
+        <HeadlessShopifyHeroSection areaName={city} />
+        <div className="bg-[#F7F7F7]">
+          <HighPerformanceHeadless areaName={city} />
+        </div>
+        <HighPerformanceHeadless
+          showShopifyLogos={false}
+          heading="What is headless ecommerce with Shopify Plus?"
+          headingMaxWidth="max-w-[692px]"
+          description={`Headless ecommerce with Shopify Plus separates the storefront from Shopify’s backend, giving ${city} businesses complete control over speed, design, and functionality. A headless Shopify setup uses frameworks such as React, Next.js, or Shopify Hydrogen, while Shopify Plus manages products, customers, checkout, and orders through the Storefront API. This structure delivers faster load times, stronger SEO, flexible URLs, and fully custom shopping experiences that standard themes cannot support. It enables advanced features, personalization, and reliable scalability for high-growth brands. Headless Shopify development is more technical than theme-based builds, but it provides unmatched flexibility for high-growth ${city} brands.`}
+          buttonText="Tell us about your Shopify headless project."
+          buttonLink="/book-a-demo"
+        />
+        <LightningFast areaName={city} />
+        <FullControl areaName={city} />
+        <HeadlessShopifyAgency areaName={city} />
+        <TechPartnership areaName={city} />
+        <TrustedHeadless areaName={city} />
+        <div>
+          <OurWork />
+          <WorkGrid />
+        </div>
+        <OurWorkCarousel />
+        <RealResults
+          heading="Reviews"
+          headingMaxWidthClass="max-w-full"
+          mainContainergapClass="wmd:gap-[50px] md:gap-[64px] gap-8"
+        />
+        <FAQsSection faqs={getShopifyHeadlessFaqs(city)} />
+        <LetsTalk
+          mainContainerClass="max-w-[1300px] mx-auto md:pb-[86px] md:pt-0  pt-[10px] pb-[30px]"
+          bgImageClasses="bg-cover md:bg-[length:130%_auto] bg-center bg-no-repeat"
+          showLogo
+          contentMaxWidthClass="md:max-w-[70%]"
+          buttonText="Upgrade to Shopify Plus with 100xelevate"
+          buttonLink="/book-a-demo"
+          title={`Looking for a Shopify Plus Agency in the ${city}?`}
+          description={`Upgrade or migrate to Shopify Plus with 100xelevate, a leading Shopify Plus agency in the ${city}.`}
+        />
+        <LetsTalkAnalytics
+          headingMaxWidthClass="md:max-w-[620px]"
+          mainContainerClass="mx-auto w-full max-w-[1300px] pt-[10px] pb-[30px] md:pb-[86px] md:pt-0"
+          heading="Let’s talk ecommerce, Shopify & Shopify Plus solutions."
+          description={`We work with brands across the ${city} to design, develop, launch, and support Shopify and Shopify Plus stores. Tell us about your project and where you want to go next. Talk to our team about your project.`}
+          imageSection={
+            <Image
+              src="/images/2025/11/getintouchphones-1024x684.png"
+              alt="Two mobile ecommerce product screens showing a custom headless Shopify UI for a snack brand."
+              width={800}
+              height={665}
+              sizes="(min-width: 960px) 600px, 100vw"
+              className="h-auto w-full object-cover"
+            />
+          }
+        />
+        <AskAISection />
+      </main>
+    </>
+  );
+}

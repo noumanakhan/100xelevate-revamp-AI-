@@ -1,0 +1,3271 @@
+{
+  "graham-platner": {
+    "name": "Graham Platner",
+    "slug": "graham-platner",
+    "cardDescription": "Fast-Turn Campaign Merch Store Build for U.S. Senate Candidate",
+    "descriptionPrimary": "Fast-Turn Campaign Merch Store Build ",
+    "descriptionSecondary": "for U.S. Senate Candidate Graham Platner",
+    "maxWidthofPrimarySecondary": "max-w-[1376px]",
+    "card": {
+      "image": "/images/2026/05/Group-2147226402.webp",
+      "alt": "Screenshot of Graham Platner – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "Graham Platner store – Designed and developed by 100xelevate.",
+        "image": "/images/2026/05/Frame-2147226364-4.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Challenge",
+            "description": "Political campaigns do not run on the same calendar as e-commerce brands. There is no six-month planning runway. A merch moment can be triggered by a viral clip, a debate line, or a news cycle, and the store has to be live and ready when it hits. The Graham for Maine campaign needed a storefront that could ship branded merch to supporters across the country, work alongside their existing campaign infrastructure, and go live on a timeline measured in weeks, not quarters.",
+            "listHeading": "What We Did",
+            "listItems": [
+              "E-commerce Store Setup on Squarespace",
+              "Product Merchandising and Storefront Design",
+              "Checkout and Fulfillment Configuration",
+              "Campaign-Ready Performance Setup",
+              "Donor and Supporter Experience Design"
+            ],
+            "listbullets": true
+          }
+        ]
+      },
+      {
+        "type": "screenshotDetails",
+        "image": "/images/2026/05/screencapture-blueruby-2026-04-30-02_55_28-2-2.webp",
+        "imageAlign": "left",
+        "header": {
+          "heading": "Our Approach",
+          "description": "A campaign merch store has a different job than a typical retail storefront. It is not chasing conversion rate benchmarks or average order value targets. It exists to turn supporter enthusiasm into two things at once: a piece of gear someone wears to show they are in, and a small act of financial support that keeps the campaign running. The store has to feel like the campaign, not like a generic shop bolted onto the website.<br /><br />So we kept the build tight and focused. Product pages were designed to match the visual language of the broader campaign site, so a supporter moving from the home page to the store never feels like they are crossing a brand boundary. Merchandise photography, sizing options, and supporter-facing copy all got the same treatment a campaign’s core messaging would get. Checkout was configured for clean fulfillment, with shipping, returns, and order communication set up to handle a nationwide supporter base rather than a local one."
+        },
+        "imageBorder": false,
+        "className": "bg-[#f7f7f7]!",
+        "details": []
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px]",
+        "heading": "From Supporter Click to Shipped <br/> Shirt",
+        "description": "Every detail of the store was set up with the supporter experience in mind:",
+        "listItems": [
+          "Product pages designed to match the campaign’s visual identity",
+          "Multiple size options and clear fit guidance for first-time buyers",
+          "Checkout configured for nationwide fulfillment, not just Maine",
+          "Clear post-purchase communication from order to delivery",
+          "Store navigation integrated with volunteer and donation flows",
+          "Self-serve setup so the team can add products without developer help"
+        ]
+      },
+      {
+        "type": "image",
+        "alt": "Graham Platner section – Designed and developed by 100xelevate.",
+        "image": "/images/2026/05/Frame-1000001388-18-2048x1520.webp"
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px]",       
+        "heading": "The Results",
+        "listItems": [
+          "Store launched on the campaign’s target timeline",
+          "Order flow held steady through early traffic spikes",
+          "Supporter feedback on the merch experience has been positive",
+          "Campaign team manages the store without ongoing developer support",
+          "Merch revenue now complements direct donations through ActBlue"
+        ]
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px] !pt-0",
+        "heading": "Final Word",
+        "description": "From the first supporter adding a tee to cart to the last package shipped out before election day, we helped the Graham Platner campaign launch a merch store that works the way a campaign actually moves. Fast to launch, steady under pressure, and fully in the candidate’s voice."
+      },
+      {
+        "type": "askAISection"
+      }
+    ]
+  },
+  "stayforever": {
+    "name": "Stayforever",
+    "deatilPageName" : "Stay forever" , 
+    "slug": "stayforever",
+    "cardDescription": "+112% Online Revenue Growth for Gift Shop Stay Forever",
+    "descriptionPrimary": "+112% Online Revenue Growth ",
+    "descriptionSecondary": "for Gift Shop Stay Forever Through Discovery Rebuil",
+    "maxWidthofPrimarySecondary": "max-w-[1376px]",
+    "card": {
+      "image": "/images/2026/05/Liss-2.webp",
+      "alt": "Screenshot of Stayforever – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "Stayforever store – Designed and developed by 100xelevate.",
+        "image": "/images/2026/05/Frame-2147226364-3-1.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Challenge",
+            "description": "Stay Forever is a thousand things in one place. A curated gift shop. A baby and kids store. A collectibles destination for Jellycat, Sonny Angel, Smiski, and Miffy fans. A home goods corner. A kids classes venue. A Latina and AAPI-owned community space across three New York locations. The old site could not hold all of it. Shoppers came looking for a gift and got lost inside a catalog that had no point of view.",
+            "listHeading": "What We Did",
+            "listItems": [
+              "Shopify UX and UI Design",
+              "Conversion Rate Optimization (CRO)",
+              "Gift Guide and Discovery Architecture",
+              "Multi-Category Navigation Rebuild",
+              "In-Store to Online Experience Bridge"
+            ],
+            "listbullets": true
+          }
+        ]
+      },
+      {
+        "type": "screenshotDetails",
+        "image": "/images/2026/05/screencapture-blueruby-2026-04-30-02_55_28-2-1.webp",
+        "imageAlign": "left",
+        "header": {
+          "heading": "Our Approach",
+          "description": "Walking into Stay Forever feels like being handed a gift you did not know you wanted. Someone with taste has already done the hard work. The site needed to do the same. Not flatten everything into a grid, but guide people the way the staff does in store.<br /><br />So we rebuilt the homepage around discovery, not departments. “Things you’ll love forever” became an actual entry point, with curated rails pulled from what is selling in Ridgewood and Catskill that week. The Gift Guide moved to the top of the navigation because gift shoppers are the highest-intent buyers, and we gave them real paths to walk down instead of a single grid: by age, by recipient, by vibe. Collectibles got their own merchandising logic since Sonny Angel and Jellycat fans shop differently than everyone else. And the three retail locations finally got proper storefront pages, so the physical shops and the online store feel like one business, not four."
+        },
+        "imageBorder": false,
+        "className": "bg-[#f7f7f7]!",
+        "details": []
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px]",
+        "heading": "From Gift Search to Checkout,<br/> Without the Overwhelm",
+        "description": "Gift shoppers do not browse. They hunt. Our job was to get them to the right product fast and then give them reasons to add one more thing:",
+        "listItems": [
+          "Gift Guide entry points for age, occasion, price, and recipient",
+          "Surprise Curated Gift Box placed prominently for shoppers",
+          "Free shipping progress bar with specific add-on suggestions",
+          "Collectible series grouped by character, not by product category",
+          "In-store pickup surfaced at checkout for Queens and Catskill locals",
+          "Kids classes moved into the main nav"
+        ]
+      },
+      {
+        "type": "image",
+        "alt": "Stayforever store – Designed and developed by 100xelevate.",
+        "image": "/images/2026/05/Frame-1000001388-17.webp"
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px]",       
+        "heading": "The Results",
+        "listItems": [
+          "+112% online revenue growth year over year following the relaunch",
+          "Average order value up 34% after the gift guide rebuild",
+          "Mobile conversion rate nearly doubled after the discovery rebuild",
+          "Gift card and gift box purchases grew by 61%",
+          "Class bookings moved meaningfully online, reducing phone and in-person booking load",
+          "Cross-category basket rate up sharply among returning customers"
+        ]
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px] !pt-0",
+        "heading": "Final Word",
+        "description": "From a curated shelf in Ridgewood to a cart full of things someone will genuinely love, we helped Stay Forever build an online shop that finally feels like walking through their door. Warm, weird, full of taste, and run by people who actually care."
+      },
+      {
+        "type": "askAISection"
+      }
+    ]
+  },
+  "blue-ruby": {
+    "name": "Blue Ruby",
+    "slug": "blue-ruby",
+    "cardDescription": "+34% Conversion Lift for Jewellery Boutique Blue Ruby",
+    "descriptionPrimary": "+34% Conversion Lift  ",
+    "descriptionSecondary": "for Jewellery Boutique Blue Ruby Across a 30+ Designer Catalog",
+    "maxWidthofPrimarySecondary": "max-w-[1376px]",
+    "card": {
+      "image": "/images/2026/05/Liss-1.webp",
+      "alt": "Screenshot of Blue Ruby – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "Blue Ruby store – Designed and developed by 100xelevate.",
+        "image": "/images/2026/05/Frame-2147226364-2.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Challenge",
+            "description": "Blue Ruby is not a single-brand jewellery store. It is a Vancouver boutique that has spent years curating 30-plus independent designers, from Adina Reyter and Zoe Chicco to Wolf Circus and Quiet Icon, across earrings, necklaces, bracelets, rings, and fine jewellery. Each designer has their own voice. Each customer arrives with a different reason. Building a storefront that holds all of that without flattening the boutique feel was the assignment.",
+            "listHeading": "What We Did",
+            "listItems": [
+              "Shopify Theme Development and Full Website Build",
+              "Multi-Designer Catalog Architecture",
+              "Conversion Rate Optimization (CRO)",
+              "Material and Category Filter System Design",
+              "Mobile-First Boutique Experience"
+            ],
+            "listbullets": true
+          }
+        ]
+      },
+      {
+        "type": "screenshotDetails",
+        "image": "/images/2026/05/screencapture-blueruby-2026-04-30-02_55_28-2.webp",
+        "imageAlign": "left",
+        "header": {
+          "heading": "Our Approach",
+          "description": "Multi-designer jewellery shoppers are not browsing the way single-brand customers do. Some come in loyal to a specific designer they have worn for years. Some are looking by material, gold or silver or solid gold. Some arrive for a moment, a Mother’s Day gift, a wedding, and need help finding it fast. A storefront that served only one of these paths would have failed at least two of the others.<br />So we built the architecture to hold all three. Designer pages got editorial treatment, with each independent brand given its own home rather than being flattened into a catalog. Material filters became first-class navigation alongside category paths. Thematic collections (Hoops and Huggies, the Wedding Edit, Mother’s Day) were built with their own merchandising logic, because gift shoppers and self-buyers move through the site at very different speeds. The Cause We Care collection got its own placement."
+        },
+        "imageBorder": false,
+        "className": "bg-[#f7f7f7]!",
+        "details": []
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px]",
+        "heading": "Built for Discovery and Decision ",
+        "description": "A jewellery shopper rarely lands ready to buy. The job was to support the long path while still converting the short one:",
+        "listItems": [
+          "Designer pages built as discovery destinations, not filtered grids",
+          "Material and category filters layered for considered self-buyers",
+          "Thematic collections (Wedding, Mother’s Day) given seasonal homes",
+          "Cause We Care collection placed prominently for the foundation partnership",
+          "Free shipping threshold surfaced to encourage natural cart growth",
+          "Multi-currency support for the cross-border customer base",
+          "Save-for-later and gift-receipt options built into the cart"
+        ]
+      },
+      {
+        "type": "image",
+        "alt": "Blue Ruby store – Designed and developed by 100xelevate.",
+        "image": "/images/2026/05/Frame-1000001388-15-1-2048x1520.webp"
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px]",       
+        "heading": "The Results",
+        "listItems": [
+          "+34% site-wide conversion lift after the rebuild",
+          "Average order value up 22% through material filtering and thematic merchandising",
+          "Designer page conversion grew sharply, with featured brands seeing the biggest gains",
+          "Mobile revenue up 51%, finally matching desktop on a high-consideration purchase",
+          "Cart abandonment dropped 18% after the new filter and discovery architecture",
+          "Cause We Care collection visibility supported foundation fundraising momentum"
+        ]
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px] !pt-0",
+        "heading": "Final Word",
+        "description": "From the first independent designer added to the cart to the foundation campaigns that grew alongside the storefront, we helped Blue Ruby scale through a meaningful chapter of the brand’s evolution. A boutique feel held at multi-designer scale, built for the customer who came for the curation and stayed for the cause."
+      },
+      {
+        "type": "askAISection"
+      }
+    ]
+  },
+  "liss": {
+    "name": "LISS",
+    "slug": "liss",
+    "cardDescription": "+52% PDP Conversion for Premium Surf Storage Brand",
+    "descriptionPrimary": "+52% PDP Conversion ",
+    "descriptionSecondary": "for Premium Surf Storage Brand Living in Sunshine",
+    "maxWidthofPrimarySecondary": "max-w-[1376px]",
+    "card": {
+      "image": "/images/2026/05/Liss.webp",
+      "alt": "Screenshot of LISS – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "LISS store – Designed and developed by 100xelevate.",
+        "image": "/images/2026/05/Frame-2147226364-1.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Challenge",
+            "description": "LISS makes patented surfboard racks priced at $299 and up, built from bamboo and cork, designed to live on a living-room wall instead of in a garage. That positioning is the whole brand. But selling a rack as a piece of furniture is a different conversion problem than selling one as utility storage. Buyers need to picture it in their space, trust the price, and feel like they are buying design, not gear. The old store was undercutting that on every front.",
+            "listHeading": "What We Did",
+            "listItems": [
+              "Shopify UX and UI Design",
+              "Conversion Rate Optimization (CRO)",
+              "High-AOV PDP Strategy",
+              "Pre-Order and Launch Flow Architecture",
+              "Cross-Category Merchandising for Rack and Accessory Attach"
+            ],
+            "listbullets": true
+          }
+        ]
+      },
+      {
+        "type": "screenshotDetails",
+        "image": "/images/2026/05/01.-Homepage-Desktop-3.webp",
+        "imageAlign": "left",
+        "header": {
+          "heading": "Our Approach",
+          "description": "A surfer dropping $299 on a Spirit Rack is not making the same decision as someone grabbing a $20 wall hook from a hardware store. They are buying into a lifestyle, a piece of design, and a brand they have likely already followed on Instagram. That mindset shift had to live in the storefront, not just in the marketing.<br /><br />So we rebuilt the rack PDPs around the design moment. Real lifestyle photography in actual homes, video showing the rack with three boards mounted, close-ups of the bamboo grain and cork detailing. The patented features (glide-down storage, hidden drawers, hanging hooks) got proper visual treatment instead of being listed as bullet points. The $299 price stopped feeling like a number and started feeling like the cost of a real piece of furniture. Trust mechanics (90-day risk-free trial, 1-year warranty, 50,000 customers) moved above the fold so a hesitant first-time buyer saw them at the moment of doubt, not after."
+        },
+        "imageBorder": false,
+        "className": "bg-[#f7f7f7]!",
+        "details": []
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px]",
+        "heading": "Turning a Rack Buyer Into a <br/> Lifestyle Customer ",
+        "description": "Someone who just bought a $299 Spirit Rack is the highest-intent customer LISS will ever see. They surf, they care about gear, they spend money on design. The job was to make the next purchase feel obvious instead of pushy:",
+        "listItems": [
+          "Self-Care Sunday Box surfaced contextually on every rack PDP",
+          "Pre-order flows for new launches built into post-purchase experiences",
+          "Cross-category recommendations linking racks to Wax Box and Clean Fin",
+          "Pre-order pricing up to 45% off surfaced with countdown urgency",
+          "Bundle savings shown live in the cart before checkout",
+          "Ambassador and affiliate program entry points embedded post-purchase"
+        ]
+      },
+      {
+        "type": "image",
+        "alt": "LISS store – Designed and developed by 100xelevate.",
+        "image": "/images/2026/05/Frame-1000001388-16-2048x1520.webp"
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px]",       
+        "heading": "The Results",
+        "listItems": [
+          "+52% PDP conversion on the rack collection",
+          "Average order value climbed 38% post-rebuild",
+          "Cart attach rate for the rack plus accessory more than doubled",
+          "Pre-order conversion on new launches grew sharply",
+          "Mobile rack PDP conversion up 47%, matching desktop",
+          "Return rate stayed flat as conversions grew"
+        ]
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px] !pt-0",
+        "heading": "Final Word",
+        "description": "From the first board mounted on a living-room wall to the hammock pitched at golden hour, we helped LISS build a store that sells the lifestyle, not just the gear. Premium, considered, and built around the kind of customer who came for a rack and stayed for the whole brand."
+      },
+      {
+        "type": "askAISection"
+      }
+    ]
+  },
+  "retro-rifle": {
+    "name": "Retro Rifle",
+    "slug": "retro-rifle",
+    "cardDescription": "x Drop-Day Revenue and Zero Site Crashes",
+    "descriptionPrimary": "3x Drop-Day Revenue ",
+    "descriptionSecondary": "and Zero Site Crashes for Limited-Release Menswear Brand Retro Rifle",
+    "maxWidthofPrimarySecondary": "max-w-[1376px]",
+    "card": {
+      "image": "/images/2026/05/Retro.webp",
+      "alt": "Screenshot of Retro Rifle – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "Retro Rifle store – Designed and developed by 100xelevate.",
+        "image": "/images/2026/04/About-Us.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Challenge",
+            "description": "Retro Rifle does not run a normal e-commerce playbook. They drop limited-run button downs, flannels, and pop culture remakes, announce them in a 7,000-member Facebook group, and watch their site get hit like a concert presale. The old store could not take the punch. Pages slowed to a crawl the minute a drop went live, checkouts timed out, and the countdown experience was an afterthought instead of a weapon.",
+            "listHeading": "What We Did",
+            "listItems": [
+              "Shopify Store Speed and Performance Engineering",
+              "Drop Launch Architecture and Countdown Experience",
+              "Conversion Rate Optimization (CRO)",
+              "PDP and Checkout Optimization Under Peak Load",
+              "Notify-Me and Vault Experience Rebuild"
+            ],
+            "listbullets": true
+          }
+        ]
+      },
+      {
+        "type": "screenshotDetails",
+        "image": "/images/2026/04/Homepage-1-1.webp",
+        "imageAlign": "left",
+        "header": {
+          "heading": "Our Approach",
+          "description": "Most apparel sites are built for a steady trickle of traffic. Retro Rifle needs a site built for a spike. A 10 a.m. drop announcement in the Facebook group pushes thousands of concurrent shoppers to one product page inside of five minutes. Any friction in that window costs real revenue and, worse, costs trust with the hardcore fans who set an alarm for it.<br /><br />So we rebuilt the site around the drop, not around the catalog. Product pages were engineered to load instantly under concurrent load, with image optimization and code splitting done specifically for the moments when traffic is peaking. The countdown timer became a first-class feature with proper notify-me capture, email and SMS alerts, and a smooth handoff from “coming soon” to “buy now” at the exact second of release. Checkout was tightened for speed, express pay surfaced aggressively, and inventory reservation logic was built to hold a customer’s cart for the few minutes between add and pay so a fan who added a Peacemaker button down did not lose it to someone faster with a Shop Pay account."
+        },
+        "imageBorder": false,
+        "className": "bg-[#f7f7f7]!",
+        "details": []
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px]",
+        "heading": "From Browse to Checkout,  <br/>Without the Drop-Off",
+        "description": "Drops are the headline, but the real business keeps running between them. Our job was to make every moment of the cycle work harder:",
+        "listItems": [
+          "Notify-me and back-in-stock capture wired into Klaviyo flows",
+          "The Vault rebuilt as a real discovery experience for archive buyers",
+          "Pop Culture Remakes merchandised by franchise, not silhouette",
+          "Military and LEO discount surfaced cleanly at checkout",
+          "Dealer and wholesale routed to a separate B2B experience",
+          "Collector community hooks linking site and 7K-member Facebook group"
+        ]
+      },
+      {
+        "type": "image",
+        "alt": "Retro Rifle store – Designed and developed by 100xelevate.",
+        "image": "/images/2026/04/Frame-1000001388-1.webp"
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px]",       
+        "heading": "The Results",
+        "listItems": [
+          "Drop-day revenue roughly 3x higher on average post-rebuild",
+          "Zero downtime through the launch window, a first for the brand",
+          "Mobile conversion on drop days climbed by 68%",
+          "Notify-me capture on upcoming drops grew by 82%",
+          "The Vault began pulling meaningful revenue on its own",
+          "Drop-day checkout error tickets fell to near zero"
+        ]
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px] !pt-0",
+        "heading": "Final Word",
+        "description": "From the countdown hitting zero to the last pearl snap shipping out, we helped Retro Rifle build a store that can actually keep up with its own fans. Fast, unbreakable, and engineered for the minute the drop goes live."
+      },
+      {
+        "type": "askAISection"
+      }
+    ]
+  },
+  "meal-max": {
+    "name": "Meal Max",
+    "slug": "meal-max",
+    "cardDescription": "Custom Bundle Builder Built From Scratch",
+    "descriptionPrimary": "Custom Bundle Builder Built From Scratch ",
+    "descriptionSecondary": "for Premium Meat and Gourmet Food Brand MealMax",
+    "maxWidthofPrimarySecondary": "max-w-[1376px]",
+    "card": {
+      "image": "/images/2026/05/Mealmax.webp",
+      "alt": "Screenshot of Meal Max – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "Meal Max store – Designed and developed by 100xelevate.",
+        "image": "/images/2026/04/BackgroundBorder-2048x1065.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Challenge",
+            "description": "MealMax was preparing to launch as a premium source for finest-quality meats and specialty foods, delivered as curated boxes. The category is crowded with subscription meat brands, but MealMax wanted the opposite of a locked-in monthly plan. They wanted customers to build their own box. That meant no off-the-shelf bundle app was going to cut it. The logic, the feel, the pace of choosing had to be custom from the ground up.",
+            "listHeading": "What We Did",
+            "listItems": [
+              "Shopify Store Speed and Performance Engineering",
+              "Custom Bundle Builder Development",
+              "Shopify Store Build and Brand Experience Design",
+              "PDP and Product Storytelling",
+              "Mobile-First Experience Architecture",
+              "Launch-Ready Performance Optimization"
+            ],
+            "listbullets": true
+          }
+        ]
+      },
+      {
+        "type": "screenshotDetails",
+        "image": "/images/2026/04/Homepage-2.webp",
+        "imageAlign": "left",
+        "header": {
+          "heading": "Our Approach",
+          "description": "Premium food shoppers do not behave like streetwear buyers or supplement buyers. They want to feel the quality before they commit. They want to know where the cuts come from, how they are sourced, what goes well with what, and why this box is worth the price before they ever reach checkout. A generic variant picker would have killed the whole experience.<br /><br />So we built a bundle builder that behaves more like a conversation with a butcher than a form. Customers pick their box size, then curate from premium cuts, specialty sides, and pantry additions with real imagery, real sourcing stories, and live pricing as the box fills. The interface is unhurried on purpose, because this is a product people save up for, not an impulse buy. Behind the scenes, inventory logic, pack sizing, and cold-chain shipping constraints were wired in from day one, so what looks effortless in the builder is actually handling real operational complexity underneath."
+        },
+        "imageBorder": false,
+        "className": "bg-[#f7f7f7]!",
+        "details": []
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px]",
+        "heading": "From Browse to Checkout, <br/> Without the Drop-Off ",
+        "description": "Launching a new brand on Shopify is the one chance to get the foundation right. Mistakes baked in at day one compound for years. We built MealMax’s store with that in mind:",
+        "listItems": [
+          "Bundle builder is architected to handle new products without rebuilds",
+          "Subscription logic ready for future repeat-delivery rollout",
+          "Cold-chain shipping rules and delivery windows surfaced before checkout",
+          "Email and SMS capture is wired into a pre-launch waitlist",
+          "Analytics and conversion tracking are configured from day zero",
+          "Performance baseline set for fast loads under heavy food imagery"
+        ]
+      },
+      {
+        "type": "image",
+        "alt": "Retro Rifle store – Designed and developed by 100xelevate.",
+        "image": "/images/2026/04/Frame-1000001388-2-2048x1179.webp"
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px]",       
+        "heading": "The Results",
+        "listItems": [
+          "Waitlist converted at 38% in the first 72 hours",
+          "64% of first-time buyers built a box of six or more items",
+          "Mobile converted at parity with desktop from day one",
+          "45-day repeat purchase rate above premium food category benchmark",
+          "Zero cart or checkout failures through launch week"
+        ]
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px] !pt-0",
+        "heading": "Final Word",
+        "description": "From the first cut selected to the first box on a customer’s doorstep, we helped MealMax open their doors with a store that fits the product. Premium, considered, and built to grow with the brand instead of against it."
+      },
+      {
+        "type": "askAISection"
+      }
+    ]
+  },
+  "dent-xx": {
+    "name": "Dent-xx",
+    "slug": "dent-xx",
+    "cardDescription": "+84% Bundle Adoption for German Oral Care Brand",
+    "descriptionPrimary": "+84% Bundle Adoption for ",
+    "descriptionSecondary": "German Oral Care Brand Dent-xx Through Ritual-First Rebuild",
+    "maxWidthofPrimarySecondary": "max-w-[1376px]",
+    "card": {
+      "image": "/images/2026/05/Dentxx.webp",
+      "alt": "Screenshot of Dent-xx – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "Dent-xx store – Designed and developed by 100xelevate.",
+        "image": "/images/2026/04/01.-Homepage-Revamp-Desktop@2x.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Challenge",
+            "description": "Oral care is a category most people do on autopilot. Toothbrush from the pharmacy, floss if you remember, maybe a mouthwash. Dent-xx is trying to do something harder. They sell a complete 10-minute morning routine built around four products working together. The economics of the brand depend on customers understanding the system, not picking up a single tube. The old store was showing four good products but not teaching customers why they belong together.",
+            "listHeading": "What We Did",
+            "listItems": [
+              "Shopify UX and UI Design",
+              "Conversion Rate Optimization (CRO)",
+              "Bundle-First Merchandising and AOV Strategy",
+              "PDP Rebuild Around System Thinking",
+              "Founder-Led Trust and Brand Storytelling"
+            ],
+            "listbullets": true
+          }
+        ]
+      },
+      {
+        "type": "screenshotDetails",
+        "image": "/images/2026/04/01_.webp",
+        "imageAlign": "left",
+        "header": {
+          "heading": "Our Approach",
+          "description": "Most oral care stores merchandise by product type. Toothbrushes here, floss there, mouthwash in the next row. Dent-xx needed the opposite. Their whole positioning is that mouth care is a routine, not a shopping list, and the storefront had to reflect that from the first scroll.<br /><br />So we redesigned the experience around the ritual. The homepage now teaches the four-step system before it sells the products, with the 10-minute promise driving the entire flow. Each step gets its place in the order it actually happens in the morning. Individual PDPs were rebuilt to explain not just what the product does, but why it is step two instead of step one. The Glow Smile Set became the hero of the entire storefront, with single-product pages positioned as upgrades within the routine, not as the primary path."
+        },
+        "imageBorder": false,
+        "className": "bg-[#f7f7f7]!",
+        "details": []
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px]",
+        "heading": "Migrating Without Losing Ground",
+        "description": "The math on the Glow Smile Set is obvious once someone sees it: €99.90 for the full routine versus €158.60 for the products individually. Our job was to make that math impossible to miss:",
+        "listItems": [
+          "Glow Smile Set positioned as the homepage hero ",
+          "Savings math surfaced everywhere the bundle appears",
+          "Four-step routine explained visually on the homepage",
+          "Every PDP links back into the full set",
+          "94% whiter teeth stat placed near the buy button",
+          "30-day money-back guarantee above the fold"
+        ]
+      },
+      {
+        "type": "image",
+        "alt": "Dent-xx store – Designed and developed by 100xelevate.",
+        "image": "/images/2026/04/Frame-1000001388-9.webp"
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px]",       
+        "heading": "The Results",
+        "listItems": [
+          "+84% bundle adoption, making the set the default purchase",
+          "Average order value climbed by 67% post-launch",
+          "Site-wide conversion rate up 41% after relaunch",
+          "Repeat purchase rate grew as ritual positioning took hold)",
+          "Mobile became the highest-converting device for the first time",
+          "Support inquiries about “where to start” fell sharply"
+        ]
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px] !pt-0",
+        "heading": "Final Word",
+        "description": "From the first morning oil pull to the final floss of the day, we helped Dent-xx build a store that sells a routine, not a product. Clean, considered, and built around the 10 minutes that now start the day for thousands of customers."
+      },
+      {
+        "type": "askAISection"
+      }
+    ]
+  },
+  "jetlagged": {
+    "name": "JETLAGGED",
+    "slug": "jetlagged",
+    "cardDescription": "+38% AOV Lift for Travel Wellness Brand JETLAGGE",
+    "descriptionPrimary": "+38% AOV Lift for ",
+    "descriptionSecondary": "Travel Wellness Brand JETLAGGED by Bridging Supplements and Gear",
+    "maxWidthofPrimarySecondary": "max-w-[1376px]",
+    "card": {
+      "image": "/images/2026/05/Jetlagged.webp",
+      "alt": "Screenshot of JETLAGGED – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "JETLAGGED store – Designed and developed by 100xelevate.",
+        "image": "/images/2026/04/Frame-2147226364.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Challenge",
+            "description": "JETLAGGED sits in a new category. Science-backed wellness for people who live in the air, paired with the travel gear to match. The formula makes sense to anyone who has landed foggy, swollen, and running on airport coffee. But the old site was letting the two halves of the brand live in separate rooms. Wellness buyers never saw the gear. Gear buyers never tried the supplements.",
+            "listHeading": "What We Did",
+            "listItems": [
+              "Shopify UX and UI Design",
+              "Conversion Rate Optimization (CRO)",
+              "Cross-Category Merchandising Strategy",
+              "PDP Science and Storytelling",
+              "Mobile-First Experience Rebuild"
+            ],
+            "listbullets": true
+          }
+        ]
+      },
+      {
+        "type": "screenshotDetails",
+        "image": "/images/2026/04/Homepage-6.webp",
+        "imageAlign": "left",
+        "header": {
+          "heading": "Our Approach",
+          "description": "The real opportunity was not on the PDP. It was in the connection between products. A business traveler grabbing a recovery supplement also needs the eye mask. A frequent flyer buying the travel kit is exactly the person who would try the jet lag formula. These shoppers were already on the site. They were just leaving with half a cart.<br /><br />So we rebuilt the store around rituals instead of categories. Homepage modules now lead with the travel moment, pre-flight, in-flight, and landing, with the right wellness and gear paired into each. PDPs surface “pairs well with” recommendations rooted in the science, not random upsells. Collection pages got restructured so wellness and accessories sit side by side where the use case connects them. Checkout got leaner, with a subtle post-add module that asks the question shoppers were already thinking: what else am I missing for this trip?"
+        },
+        "imageBorder": false,
+        "className": "bg-[#f7f7f7]!",
+        "details": []
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px]",
+        "heading": "From Single Purchase to Travel <br /> Ritual",
+        "description": "One-off buyers do not build a wellness brand. Repeat travelers do. We wired the store to turn a first order into a routine:",
+        "listItems": [
+          "Trip-based bundles for red-eye, long-haul, and time-zone-hopping travel",
+          "Subscribe and save framed around travel frequency, not monthly delivery",
+          "Post-purchase flow delivering a usage guide timed to the next trip",
+          "Reviews filtered by traveler type, so business hears from business",
+          "Quiz-led discovery for first-timers unsure between wellness or gear",
+          "Inline education connecting the wellness half and the gear half"
+        ]
+      },
+      {
+        "type": "image",
+        "alt": "JETLAGGED store – Designed and developed by 100xelevate.",
+        "image": "/images/2026/04/Frame-1000001388-8.webp"
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px]",       
+        "heading": "The Results",
+        "listItems": [
+          "+38% lift in average order value within 90 days",
+          "Cross-category attach rate nearly doubled after launch",
+          "Site-wide conversion rate up 29%, led by PDP gains",
+          "Subscription opt-in grew 44% once reframed around trip frequency",
+          "Mobile bounce rate dropped 31% after the one-thumb flow rebuild",
+          "Bundle buyers return at roughly twice the rate of single-product buyers"
+        ]
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px] !pt-0",
+        "heading": "Final Word",
+        "description": "From the pre-flight ritual to the first clear-headed morning on the other side of the world, we helped JETLAGGED build a store that finally connects the science to the gear, and the single purchase to the traveler’s whole routine."
+      },
+      {
+        "type": "askAISection"
+      }
+    ]
+  },
+  "cambie": {
+    "name": "Cambie",
+    "slug": "cambie",
+    "cardDescription": "+58% Repeat Order Rate for B2B Chocolate Supplier",
+    "descriptionPrimary": "+58% Repeat Order Rate for ",
+    "descriptionSecondary": "B2B Chocolate Supplier Cambie Through Reorder Flow Rebuild",
+    "maxWidthofPrimarySecondary": "max-w-[1376px]",
+    "card": {
+      "image": "/images/2026/05/Cambie.webp",
+      "alt": "Screenshot of Cambie – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "Cambie store – Designed and developed by 100xelevate.",
+        "image": "/images/2026/04/Frame-2147226363.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Challenge",
+            "description": "Cambie supplies chocolate, fillings, and pastry ingredients to professional bakers, pastry chefs, and small business owners. These customers are not browsing. They are running a bakery on Monday morning and need 10 kg of Callebaut by Wednesday. But the old site was built like a consumer store. Reorders took too many clicks, stock visibility was unclear, and the cart did not understand how pros actually buy.",
+            "listHeading": "What We Did",
+            "listItems": [
+              "Shopify UX and UI Design",
+              "B2B Conversion Rate Optimization",
+              "Reorder and Account Experience",
+              "PDP Rebuild for Bulk SKUs",
+              "Same-Day Fulfillment Workflow Optimization"
+            ],
+            "listbullets": true
+          }
+        ]
+      },
+      {
+        "type": "screenshotDetails",
+        "image": "/images/2026/04/Homepage-5.webp",
+        "imageAlign": "left",
+        "header": {
+          "heading": "Our Approach",
+          "description": "their last five SKUs, a clear stock number, and a checkout that does not get in their way. We rebuilt the site around that reality.<br /><br />Account pages became the new home screen for returning customers. One-click reorder for previous carts. A saved-products shelf for the SKUs they buy every week. Stock availability pulled forward onto collection pages so a chef does not add 45 pounds of melting wafers to cart only to discover it is backordered. PDPs were restructured to lead with what matters to a professional buyer: bulk size options, wholesale pricing in context, lead time, and the technical spec sheet for cocoa content, tempering behavior, and allergen information. The whole experience got leaner, faster, and quieter, because a site that respects a working chef’s time converts better than one that tries to entertain."
+        },
+        "imageBorder": false,
+        "className": "bg-[#f7f7f7]!",
+        "details": []
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px]",
+        "heading": "From Gift Search to Checkout,  <br /> Without the Overwhelm",
+        "description": "B2B customers are not acquired, they are retained. Our job was to make Cambie the path of least resistance every time a bakery needed chocolate:",
+        "listItems": [
+          "Recurring order setup with skip and edit controls for weekly SKUs",
+          "Saved carts per customer, so orders built across days never reset",
+          "Wholesale pricing tiers applied automatically at the cart level",
+          "Backorder notifications on the PDP so buyers can plan around delays",
+          "Same-day shipping cutoff visible everywhere, not just at checkout",
+          "Direct line to the team surfaced on PDPs for sourcing questions"
+        ]
+      },
+      {
+        "type": "image",
+        "alt": "Cambie store – Designed and developed by 100xelevate.",
+        "image": "/images/2026/04/Frame-1000001388-7.webp"
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px]",       
+        "heading": "The Results",
+        "listItems": [
+          "+58% repeat order rate within six months of launch",
+          "Average order frequency moved from monthly to every 18 days",
+          "Checkout time for returning customers dropped by more than half",
+          "Mobile orders grew by 74%, becoming a meaningful share of volume",
+          "Backorder-related abandonment dropped sharply after stock visibility moved forward",
+          "Wholesale account onboarding time fell from days to minutes"
+        ]
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px] !pt-0",
+        "heading": "Final Word",
+        "description": "From Monday morning production runs to last-minute specialty orders, we helped Cambie turn a wholesale catalog into the tool their professional customers actually want in their corner. Fast, clear, and built around how real kitchens work."
+      },
+      {
+        "type": "askAISection"
+      }
+    ]
+  },
+  "root-pretty": {
+    "name": "Root Pretty",
+    "slug": "root-pretty",
+    "cardDescription": "3x Faster Load Speeds in a Complete Shopify Migration",
+    "descriptionPrimary": "3x Faster Load Speeds ",
+    "descriptionSecondary": "in a Complete Shopify Migration for Clean Beauty Brand Root",
+    "maxWidthofPrimarySecondary": "max-w-[1376px]",
+    "card": {
+      "image": "/images/2026/05/Root.webp",
+      "alt": "Screenshot of Root Pretty – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "Root Pretty store – Designed and developed by 100xelevate.",
+        "image": "/images/2026/04/Frame-2147226361-1.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Challenge",
+            "description": "Root is a clean beauty store with hundreds of SKUs across makeup, skincare, hair, and body, a subscription program called Pretty Club, a Pretty Point Rewards loyalty system, a mobile app, thousands of product reviews, and deep organic search presence. Migrating a brand like this is not a design project. It is surgery. One broken URL or lost customer record could take months to recover from.",
+            "listHeading": "What We Did",
+            "listItems": [
+              "Shopify Theme Development and Migration",
+              "Full Data Migration (Customers, Orders, Subscriptions, Points)",
+              "SEO Preservation and URL Mapping",
+              "Site Speed and Core Web Vitals Optimization",
+              "Subscription and Rewards Continuity"
+            ],
+            "listbullets": true
+          }
+        ]
+      },
+      {
+        "type": "screenshotDetails",
+        "image": "/images/2026/04/Homepage-4.webp",
+        "imageAlign": "left",
+        "header": {
+          "heading": "Our Approach",
+          "description": "Most migrations fail in the same places. SEO drops because URL structures change. Customer accounts break because data does not map cleanly. Subscription billing skips a cycle. Rewards points vanish. The new theme looks good, but the old conversion flow gets rewritten by accident. We planned the Root migration backwards from those failure points.<br /><br />Before touching the theme, we mapped every URL, every product handle, and every collection path, and built the redirect architecture first. Customer data, order history, subscription records, and Pretty Points balances were migrated and tested in a staging environment against the live site to confirm one-for-one parity. Only then did we start the theme rebuild, keeping the conversion elements that were already working (the review integration, the 48-shade swatch selector, the “Build A Forever Palette” logic) while modernizing the pieces that were holding the store back. Launch happened in a quiet window, with monitoring in place to catch any crawl, checkout, or subscription anomaly in the first 72 hours."
+        },
+        "imageBorder": false,
+        "className": "bg-[#f7f7f7]!",
+        "details": []
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px]",
+        "heading": "Migrating Without Losing Ground",
+        "description": "Clean beauty is a category where organic search is a major traffic source. Shoppers land on long-tail queries like “nontoxic mascara for sensitive eyes” or “bakuchiol hyaluronic acid serum.” Losing those rankings during a migration can cost months of recovery. We refused to let that happen. <br/> <br />Every existing URL was mapped to its new equivalent with 301 redirects in place from launch minute one. Schema markup was preserved across product, review, and breadcrumb layers. Image alt text, meta descriptions, and H1 structures were audited and carried over. Core Web Vitals got a full rebuild in the new theme, so Google was not just seeing the same rankings but a faster, cleaner version of the site. The Pretty Club subscription flow was rebuilt on the new theme without dropping a single active subscriber, which is usually where migrations quietly bleed revenue."
+        
+      },
+      {
+        "type": "image",
+        "alt": "Root Pretty store – Designed and developed by 100xelevate.",
+        "image": "/images/2026/04/Frame-1000001388-6.webp"
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px]",       
+        "heading": "The Results",
+        "listItems": [
+          "Zero measurable organic traffic loss through the migration window, with rankings recovering to baseline within two weeks and trending up from there ",
+          "Page load times cut by roughly two thirds, with Largest Contentful Paint moving into the green across mobile and desktop",
+          "100% of active Pretty Club subscriptions retained through the cutover, with no billing interruptions",
+          "Full Pretty Points ledger migrated with balances and tiers intact for every member",
+          "Conversion rate climbed meaningfully in the weeks after launch as the faster site started compounding",
+          "Customer support tickets related to login, account, or order history during the migration window came in below 0.5% of active customers"
+        ]
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px] !pt-0",
+        "heading": "Final Word",
+        "description": "From the first shade match to the thousandth loyalty point earned, we helped Root move house without leaving anything behind. A faster store, a healthier SEO footprint, and a community that barely noticed the move happened at all."
+      },
+      {
+        "type": "askAISection"
+      }
+    ]
+  },
+  "ultra-internal": {
+    "name": "Ultra internal",
+    "slug": "ultra-internal",
+    "cardDescription": "+61% AOV for 25-Year Wellness Brand Ultra Internal Flush",
+    "descriptionPrimary": "+61% AOV for 25-Year ",
+    "descriptionSecondary": "Wellness Brand Ultra Internal Flush Through Storefront Rebuild",
+    "maxWidthofPrimarySecondary": "max-w-[1376px]",
+    "card": {
+      "image": "/images/2026/05/Ultra.webp",
+      "alt": "Screenshot of Ultra Internal – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "Ultra Internal store – Designed and developed by 100xelevate.",
+        "image": "/images/2026/04/Frame-2147226359.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Challenge",
+            "description": "Ultra Internal Flush is not a new brand chasing a trend. It is a formula with a 25-year history and over 7 million bottles sold. But the wellness category has changed. Modern buyers expect clean design, ingredient transparency, and content that speaks to their actual stage of life. The product had the credibility. The storefront needed to carry that credibility forward without losing the voice that earned it.",
+            "listHeading": "What We Did",
+            "listItems": [
+              "Shopify UX and UI Design",
+              "Conversion Rate Optimization (CRO)",
+              "PDP Rebuild With Ingredient Storytelling",
+              "Multi-Bottle Merchandising and AOV Strategy",
+              "Mobile-First Experience Architecture"
+            ],
+            "listbullets": true
+          }
+        ]
+      },
+      {
+        "type": "screenshotDetails",
+        "image": "/images/2026/04/Homepage-3.webp",
+        "imageAlign": "left",
+        "header": {
+          "heading": "Our Approach",
+          "description": "Most supplement stores fight for trust the same way. Clinical claims, ingredient call-outs, before-and-after photos, countdown timers. Ultra Internal Flush could have played that game, but it did not need to. The product already had 25 years of results behind it. The job was not to invent trust. It was to stop burying it.<br /><br />So we redesigned the store around what was already true. The homepage now leads with the legacy (25 years, 7 million bottles, best-selling detox in North America) in the first scroll, so a first-time visitor understands the heritage before they see the price. Ingredient pages got their own deep-dive treatment, with each of the 8 botanicals and 1 probiotic getting real explanation instead of a single-line label. The PDP was rebuilt around objection handling, not feature lists, answering the specific questions women actually ask about detox, elimination, and whether this is another harsh cleanse in disguise. Checkout and bundle logic were tightened to make the multi-bottle savings obvious without feeling pushy."
+        },
+        "imageBorder": false,
+        "className": "bg-[#f7f7f7]!",
+        "details": []
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px]",
+        "heading": "Turning a Single Bottle Into a <br/> Reset Program",
+        "description": "Supplement brands live or die on repeat purchase and multi-unit orders. Our job was to make the math obvious and the path easy:",
+        "listItems": [
+          "Quantity tiers with clear 15% and 25% savings",
+          "“Best value” labeling tied to 2-3 month usage",
+          "Live cart updates showing savings as bottles are added",
+          "Post-purchase flow introducing the Flow & Glow Program",
+          "Ingredient pages interlinked with the PDP for deeper research",
+          "FAQ embedded near the buy button for common doubts",
+          "30-day money-back guarantee placed above the fold"
+        ]
+      },
+      {
+        "type": "image",
+        "alt": "Ultra Internal store – Designed and developed by 100xelevate.",
+        "image": "/images/2026/04/Frame-1000001388-3.webp"
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px]",       
+        "heading": "The Results",
+        "listItems": [
+          "+61% average order value after launch",
+          "Site-wide conversion rate up 44%",
+          "Mobile revenue climbed as long-form PDPs became phone-readable",
+          "Repeat purchase rate within 90 days grew sharply",
+          "Homepage bounce rate dropped after legacy signals moved up",
+          "Support inquiries about dosage and safety fell noticeably"
+        ]
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px] !pt-0",
+        "heading": "Final Word",
+        "description": "From the first bottle to the third, from the first visit to the quiet trust that keeps a 25-year brand running, we helped Ultra Internal Flush build a store that finally matches the product. Considered, credible, and built around the women who have been buying it all along."
+      },
+      {
+        "type": "askAISection"
+      }
+    ]
+  },
+  "skeisan": {
+    "name": "Skeisan",
+    "slug": "skeisan",
+    "cardDescription": "+73% Bundle AOV for German Tea Brand Skeisan",
+    "descriptionPrimary": "+73% Bundle AOV for ",
+    "descriptionSecondary": "German Tea Brand Skeisan by Redefining Tea as Wellness",
+    "maxWidthofPrimarySecondary": "max-w-[1376px]",
+    "card": {
+      "image": "/images/2026/05/Skaisen.webp",
+      "alt": "Screenshot of Skeisan – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "Skeisan store – Designed and developed by 100xelevate.",
+        "image": "/images/2026/04/Bundle-Image.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Challenge",
+            "description": "Skeisan is a modern premium tea brand built on Japanese minimalism, sustainability, and a commitment to health. Their products already had a loyal following, but their Shopify storefront was underperforming:",
+            "descriptionListItems": [
+              "Despite strong organic traffic, conversions hovered around 1.1%",
+              "Average Order Value (AOV) sat at just $32, leaving bundling potential untapped",
+              "The storefront design lacked the story-driven appeal needed to convert high-intent visitors",
+              "Retention opportunities through email & SMS were inconsistent and under-optimized"
+            ],
+            "descriptionAfterList": "Skeisan’s Shopify site wasn’t fully reflecting their premium positioning, leading to missed revenue opportunities and lower customer lifetime value.",
+            "listHeading": "What We Did",
+            "listItems": [
+              "Shopify UX and UI Design",
+              "Conversion Rate Optimization (CRO)",
+              "Bundle Merchandising and AOV Strategy",
+              "Multi-Market and Multi-Currency Setup",
+              "PDP Rebuild for Effect-Based Discovery"
+            ],
+            "listbullets": false
+          }
+        ]
+      },
+      {
+        "type": "screenshotDetails",
+        "image": "/images/2026/04/01.-Homepage-Desktop-1.webp",
+        "imageAlign": "left",
+        "header": {
+          "heading": "Our Approach",
+          "description": "Selling tea as a wellness category means shoppers arrive with a different question. Not “which blend tastes best” but “which one helps me do the thing I came here to do.” That is a fundamentally different browsing experience, and it requires a fundamentally different storefront.<br /><br />So we restructured the entire discovery flow around effect before flavor. The homepage now leads with the three functional pillars, Energy & Power, Balance & Flow, Recovery & Regeneration, so a first-time visitor immediately understands Skeisan’s system. Tea category pages retain the traditional sorting (Black, Green, Herbal, Rooibos, Exquisite) for shoppers who know what they want, but the primary path is effect-based. PDPs were rebuilt around the functional benefit first, with the SKU code and origin story playing supporting roles. Bundle pages were given their own architectural treatment, because the Energy, Balance, and Recovery bundles are not upsells, they are the actual product the brand is trying to sell."
+        },
+        "imageBorder": false,
+        "className": "bg-[#f7f7f7]!",
+        "details": []
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px]",
+        "heading": "Smarter Product Experience,<br/> Smarter Sales",
+        "description": "We restructured Skeisan’s Shopify storefront to better reflect their <b>premium tea lifestyle</b> positioning:",
+        "listItems": [
+          "Homepage built around <b>curated tea journeys</b> (wellness, focus, relaxation)",
+          "Product pages with <b>clear value props, customer reviews, and benefit breakdowns</b>",
+          "A/B tested bundling offers that encouraged multiple-product purchases",
+          "Added <b>urgency banners and trust badges</b> to reduce hesitation"
+        ],
+          "descriptionAfterList": "The result: a digital storefront that matched the craftsmanship and philosophy behind Skeisan’s tea."
+      },
+      {
+        "type": "image",
+        "alt": "Skeisan store – Designed and developed by 100xelevate.",
+        "image": "/images/2026/04/Frame-1000001388.webp"
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px]",       
+        "heading": "The Results Speak Loudly",
+        "description": "Since Skeisan partnered with 100xelevate, their Shopify metrics have transformed:",
+        "listItems": [
+          "<b>Conversion Rate:</b> grew from ~1.1% to 2.4%+",
+          "<b>AOV:</b> lifted from $38 to $46+",
+          "<b>Revenue:</b> scaled from ~$6k/month to $16k+ per 10k sessions",
+          "<b>Retention:</b> repeat purchase rate increased by 22%",
+          "<b>Attributable Email/SMS Revenue:</b> 18% of total sales"
+        ],
+        "descriptionAfterList": "These gains reflect more than just site tweaks, they’re the result of <b>strategic CRO + retention alignment.</b>"
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px] !pt-0",
+        "heading": "Final Word",
+        "description": "From the morning cup that sharpens focus to the evening brew that settles everything down, we helped Skeisan build a store that finally speaks its own language. Tea as system, as ritual, as the most natural supplement in the world."
+      },
+      {
+        "type": "askAISection"
+      }
+    ]
+  },
+  "baby-bonde": {
+    "name": "Baby Bondé",
+    "slug": "baby-bonde",
+    "cardDescription": "+63% Revenue Growth for Baby Bondé",
+    "descriptionPrimary": "+63% Revenue Growth for ",
+    "descriptionSecondary": "Baby Bondé, an Ergonomic Baby Carrier Brand",
+    "maxWidthofPrimarySecondary": "max-w-[1376px]",
+    "card": {
+      "image": "/images/2026/04/Baby-Bonde-1.webp",
+      "alt": "Screenshot of Baby Bonde – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "Baby Bonde store – Designed and developed by 100xelevate.",
+        "image": "/images/2026/04/Frame-1000001908-1.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Challenge",
+            "description": "Baby Bondé makes one product, done right. An ergonomic carrier that supports babies from 7 to 44 lbs, holds the M-position for healthy hip development, and comes in designs parents actually want to wear. But the old site wasn’t selling it the way new parents needed to hear it. Too much product, not enough reassurance.",
+            "listHeading": "What We Did",
+            "listItems": [
+              "Shopify UX and UI Design",
+              "Conversion Rate Optimization (CRO)",
+              "PDP Storytelling and Education",
+              "Mobile-First Experience Rebuild",
+              "Trust and Social Proof Architecture"
+            ],
+            "listbullets": false
+          }
+        ]
+      },
+      {
+        "type": "screenshotDetails",
+        "image": "/images/2026/04/01.-Homepage-Revamp-Desktop-1-1.webp",
+        "imageAlign": "left",
+        "header": {
+          "heading": "Our Approach",
+          "description": "New parents don’t shop the way streetwear buyers do. They research for weeks. They compare five brands at midnight feeds. They read every review, watch every how-to video, and still hesitate before buying because it’s a carrier for their baby, and getting it wrong feels unthinkable. The site needed to meet them there.<br /><br />So we redesigned around one question: would a nervous first-time mom feel safe clicking add to cart? We restructured the PDP to lead with the ergonomic benefits, showed the three carrying positions with real imagery instead of diagrams, and pulled testimonials from real Baby Bondé customers into the buying flow. Safety specs, weight range, and the breastfeeding-friendly design moved above the fold. The whole site slowed down to build confidence, then sped up at checkout where hesitation actually costs sales."
+        },
+        "imageBorder": false,
+        "className": "bg-[#f7f7f7]!",
+        "details": []
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px]",
+        "heading": "From Doubt to Confident <br/> Checkout",
+        "description": "Baby carrier shoppers don’t convert on impulse. They convert when doubt gets answered. We wired the whole store to do exactly that:",
+        "listItems": [
+          "Safety and age-range information placed directly next to the price",
+          "“Is this right for my baby?” module built into every PDP",
+          "Real customer photos woven through the gallery, not siloed away",
+          "PDP comparisons showing how Baby Bondé stacks up against competitors",
+          "Breastfeeding, travel, and carrying position content surfaced by use case",
+          "Post-purchase flow with how-to videos so first wears go smoothly"
+        ]
+      },
+      {
+        "type": "image",
+        "alt": "Baby Bonde store – Designed and developed by 100xelevate.",
+        "image": "/images/2026/04/Frame-1000001673-2048x1209.webp"
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px]",       
+        "heading": "The Results",
+        "listItems": [
+          "+63% revenue growth within the first 90 days post-launch",
+          "Site-wide conversion rate lifted 41%, with PDP conversions nearly doubling",
+          "Average order value up 22% from new bundle and gifting modules",
+          "Returns dropped 17% as education caught confusion before checkout",
+          "Mobile became the highest-converting device for the first time"
+        ]
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px] !pt-0",
+        "heading": "Final Word",
+        "description": "From the first anxious scroll to that first walk around the block with baby snug against your chest, we helped Baby Bondé build a store that feels as considered as the carrier. Safer to shop, easier to trust, and finally worthy of the product."
+      },
+      {
+        "type": "askAISection"
+      }
+    ]
+  },
+  "nyc-mode": {
+    "name": "NYC Mode",
+    "slug": "nyc-mode",
+    "cardDescription": "+47% Conversion Lift for NYC Mode",
+    "descriptionPrimary": "+47% Conversion Lift for ",
+    "descriptionSecondary": "NYC Mode, a Streetwear and Sports Merch Retailer",
+    "maxWidthofPrimarySecondary": "max-w-[1376px]",
+    "card": {
+      "image": "/images/2026/04/NYC.webp",
+      "alt": "Screenshot of NYC Mode – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "NYC Mode store – Designed and developed by 100xelevate.",
+        "image": "/images/2026/04/Group-2147226394-scaled.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Challenge",
+            "description": "NYC Mode has been curating streetwear since 2017. Air Jordan, Converse, Fila, Herschel, licensed NFL and NHL gear. Good product, real taste. But the site wasn’t pulling its weight. Sneakerheads were losing patience in the filters, sports fans couldn’t find their team without digging, and mobile was quietly costing them conversions every day.",
+            "listHeading": "What We Did",
+            "listItems": [
+              "Shopify UX and UI Design",
+              "Conversion Rate Optimization (CRO)",
+              "Collection and Filter Architecture",
+              "PDP and Checkout Optimization",
+              "Mobile-First Experience Rebuild"
+            ],
+            "listbullets": false
+          }
+        ]
+      },
+      {
+        "type": "screenshotDetails",
+        "image": "/images/2026/04/Homepage-1.webp",
+        "imageAlign": "left",
+        "header": {
+          "heading": "Our Approach",
+          "description": "Before touching the design, we mapped out who was actually shopping. Three very different people kept showing up: the sneaker hunter who already knows the exact pair, the browser scrolling for a fit, and the fan who just needs his team’s hat before kickoff. Trying to serve all three with one generic layout was never going to work.<br /><br />So we rebuilt it in three layers. Brand-first navigation for the hunters. Editorial “shop the look” modules for the browsers. A proper sports merch section organized by league and team, not buried in a dropdown. PDPs were reworked to show sizing, lifestyle shots, and shipping cues upfront. Checkout got tightened. Pages loaded faster. The whole site finally felt like walking into the shop, instead of scrolling a warehouse."
+        },
+        "imageBorder": false,
+        "className": "bg-[#f7f7f7]!",
+        "details": []
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px]",
+        "heading": "From Browse to Checkout, <br/> Without the Drop-Off",
+        "description": "Streetwear buyers make up their minds quickly, and they lose interest just as fast. Our job was to keep them moving once something caught their eye:",
+        "listItems": [
+          "“Wear it with” modules on PDPs pulling from the same drop",
+          "Sticky mobile add-to-cart bar, so the buy button is always thumb-close",
+          "Size availability shown on the collection grid, filtering out dead ends",
+          "Sports merch organized the way fans think: league, team, product",
+          "Apple Pay and Shop Pay surfaced first for returning shoppers",
+          "Returns and shipping timelines placed next to the buy button"
+        ]
+      },
+      {
+        "type": "image",
+        "alt": "Baby Bonde store – Designed and developed by 100xelevate.",
+        "image": "/images/2026/04/Frame-1000001686-scaled.webp"
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px]",       
+        "heading": "The Results",
+        "listItems": [
+          "+47% site-wide conversion lift within the first 60 days after launch",
+          "Mobile conversion up 62%, finally catching up with desktop",
+          "Average session duration up 38% as filter confusion dropped off",
+          "Cart abandonment down 24% after the checkout rework",
+          "Sports merch revenue spiked heading into NFL and NHL season"
+        ]
+      },
+      {
+        "type": "headingDescription",
+        "className": "!max-w-[1400px] !pt-0",
+        "heading": "Final Word",
+        "description": "From sneaker drops to Sunday kickoffs, we helped NYC Mode turn a deep catalog into a storefront that shops the way New York moves. Fast, curated, a little bit of attitude. Global brands, NYC standard, and a site that finally lives up to both."
+      },
+      {
+        "type": "askAISection"
+      }
+    ]
+  },
+  "waterboy": {
+    "name": "Waterboy",
+    "slug": "waterboy",
+    "cardDescription": "Optimized Shopify Store Design Boosting Conversions & Retention by 20%",
+    "descriptionPrimary": "Waterboy Transformed Its Online Store",
+    "descriptionSecondary": "with a High-Impact, Conversion-Focused Design",
+    "card": {
+      "image": "/images/2025/02/Frame-427320691-16-e1761683894682.webp",
+      "alt": "Screenshot of Waterboy store – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "Waterboy store – Designed and developed by 100xelevate.",
+        "image": "/images/2025/02/Frame-1000001510.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "Background",
+            "description": "Waterboy, a hydration brand known for its effective electrolyte products, needed a Store Lander that not only looked good but also drove conversions and increased Average Order Value (AOV). With products at a lower price point, the challenge was to create a design that encouraged bundling, easy navigation, and seamless purchasing, while also building brand credibility.",
+            "listHeading": "Services",
+            "listItems": [
+              "E-commerce Discovery",
+              "Creative Direction",
+              "Site Architecture",
+              "Custom UI/UX Design"
+            ]
+          },
+          {
+            "heading": "Approach",
+            "description": "100xelevate crafted a strategy that merged sleek design with high-converting functionality to create a store that doesn’t just look good but drives real results. We focused on crafting an immersive and intuitive UX that enhances the shopping journey, integrating smart features that boost engagement and conversions, and implementing retention strategies that drive sustainable growth.",
+            "listHeading": "Integrations & Features",
+            "listItems": [
+              "Bundle Section",
+              "Comparison Section",
+              "Merchandise Section"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "videoUrl": "/images/2025/02/waterboy.mp4"
+      },
+      {
+        "type": "screenshotDetails",
+        "image": "/images/2025/02/water-boy.webp",
+        "details": [
+          {
+            "heading": "1. Sensible Brand Integration",
+            "description": "To maximize average order value, we introduced strategic bundling sections and offer highlights that encouraged customers to purchase multiple products. These sections made it easy for shoppers to see the benefits of bundling and added incentives like discounts for larger purchases."
+          },
+          {
+            "heading": "2. Frictionless, Intuitive Navigation",
+            "description": "A key focus was simplifying the shopping journey. We designed a clear, easy-to-navigate menu in the header with imagery that visually represented product categories. This helped customers instantly identify what they were looking for, reducing clicks and removing unnecessary friction in the buying process."
+          },
+          {
+            "heading": "3. Trust-Boosting Credibility Sections",
+            "description": "Knowing that trust is crucial in eCommerce, we added UGC content and real customer reviews throughout the site. Seeing actual users enjoying the product reassured new customers and reinforced purchase confidence."
+          },
+          {
+            "heading": "4. Personalized Brand Connection",
+            "description": "To make the brand feel more human, we redesign an Introduction Section that tells Waterboy’s story, connecting with customers on a personal level and making the experience feel more authentic and engaging."
+          },
+          {
+            "heading": "5. One-Page Merch Section for Seamless Shopping",
+            "description": "Instead of making customers navigate to a separate page to buy merchandise, we redesign a dedicated merch section directly on the homepage. This allowed users to select sizes and add items to their cart without leaving their current page, making the process effortless and friction-free."
+          },
+          {
+            "heading": "6. A Modern, Functional Footer",
+            "description": "The store’s footer was completely redesigned to include a modern aesthetic with the brand’s logo icon, making it clean, professional, and easy to navigate while reinforcing Waterboy’s identity."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "alt": "Waterboy store – Designed and developed by 100xelevate.",
+        "image": "/images/2025/02/Frame-1000001511-scaled.jpg"
+      },
+      {
+        "type": "headingDescription",
+        "heading": "Results",
+        "description": "Waterboy’s new Shopify store now delivers a seamless, engaging, and conversion-optimized experience. The bundling strategy encouraged larger orders, increasing AOV, while the intuitive menu helped customers find products faster, improving conversion rates. UGC and real reviews built trust, the personalized brand introduction deepened connections, and the easy-access merch section made purchases effortless. The result? A store that not only looks great but also sells."
+      }
+    ]
+  },
+  "andrea-maack": {
+    "name": "Andrea Maack",
+    "slug": "andrea-maack",
+    "cardDescription": "Developed Luxury Shopify Store Increasing Revenue per User by 22X",
+    "descriptionPrimary": "Andrea Maack Partners with 100xelevate",
+    "descriptionSecondary": "for a High-Performance, Luxury Shopify Experience",
+    "card": {
+      "image": "/images/2025/02/Frame-427320720-e1761683932868-1.avif",
+      "alt": "Screenshot of Andrea Maack store – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "video",
+        "videoUrl": "/images/2025/02/andrea_maack_halloween2024_web_loop_627df0b2-9ff4-41a2-b3f7-069d26acf22c.mov"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "Challenge",
+            "description": "Andrea Maack, a luxury fragrance brand, needed an online experience as refined as its products. The goal was clear: create a visually stunning, high-performing Shopify store that enhances engagement, boosts conversions, and delivers a seamless customer journey.<br /><br />100xelevate stepped in to elevate the store’s design, functionality, and retention strategies. Our focus was not just aesthetics but also performance, implementing Store Locator, Bundle Builder, and Product Finder Quiz features while optimizing Klaviyo for smart customer engagement and retention.<br /><br />Despite a strong brand presence, Andrea Maack’s Shopify store needed an upgrade to better serve its customers and maximize revenue. Key challenges included:<br /><br />&bull; <strong>Refining UX &amp; Design:</strong> The existing store lacked the immersive brand experience needed to captivate visitors and drive deeper engagement.<br />&bull; <strong>Boosting Customer Engagement:</strong> Shoppers needed interactive tools to find their perfect fragrance effortlessly, making the shopping experience more intuitive and enjoyable.<br />&bull; <strong>Driving AOV &amp; Retention:</strong> Enhancing bundling options and automated flows to maximize sales and repeat purchases, ultimately increasing lifetime value.<br />&bull; <strong>Streamlining Site Functionality:</strong> Improving site navigation, checkout experience, and backend performance for a frictionless shopping journey that retains customers.",
+            "listHeading": "Services",
+            "listItems": [
+              "UX Design",
+              "Shopify Development",
+              "Retention Strategist",
+              "Optimise Klaviyo Email Campaigns"
+            ]
+          },
+          {
+            "heading": "Approach",
+            "description": "100xelevate crafted a strategy that merged sleek design with high-converting functionality to create a store that doesn’t just look good but drives real results. We focused on crafting an immersive and intuitive UX that enhances the shopping journey, integrating smart features that boost engagement and conversions, and implementing retention strategies that drive sustainable growth. By aligning design, technology, and customer behavior insights, we built a Shopify store that not only reflects Andrea Maack’s luxury identity but also delivers measurable business impact.",
+            "listHeading": "Integrations & Features",
+            "listItems": [
+              "Store Locator",
+              "Bundle Builder",
+              "Product Finder Quiz",
+              "Klaviyo"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "alt": "PSD product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/02/MacBook_Mockup_1_11zon.webp"
+      },
+      {
+        "type": "screenshotDetails",
+        "className": "bg-[#f7f7f7]!",
+        "image": "/images/2025/02/Frame-427320751-1-1.webp",
+        "imageAlign": "left",
+        "header": {
+          "number": "01",
+          "heading": "Landing page a High-End <br /> Shopping Experience",
+          "description": "A luxury eCommerce experience isn’t just about beautiful visuals—it’s about seamless, effortless usability. We:<br /><br />&bull; Designed a <strong>clean, modern, and immersive UI/UX</strong> that amplifies the brand’s artistic essence and simplifies product discovery.<br />&bull; Created a <strong>fully responsive</strong> layout optimized for flawless browsing across all devices, ensuring a mobile-first approach.<br />&bull; Enhanced <strong>site navigation</strong> with an intuitive structure that reduces friction, making the shopping journey engaging and effortless."
+        },
+        "details": []
+      },
+      {
+        "type": "video",
+        "videoUrl": "/images/2025/02/andrea_maack_-_jest_animation_desktop.mp4"
+      },
+      {
+        "type": "headingDescription",
+        "number": "02",
+        "heading": "Smart Features That Drive <br /> Conversions",
+        "description": "To make shopping effortless and interactive, we introduced advanced tools tailored for user convenience:",
+        "listItems": [
+          "<strong>Store Locator:</strong> A seamless way for customers to find retail locations instantly, driving offline sales.",
+          "<strong>Bundle Builder:</strong> A flexible product bundling system designed to increase AOV and cross-sell opportunities through intelligent product pairing.",
+          "<strong>Product Finder Quiz:</strong> A personalized shopping assistant that recommends fragrances based on user preferences, driving both engagement and conversions by reducing decision fatigue."
+        ]
+      },
+      {
+        "type": "image",
+        "alt": "PSD product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/02/Heading-2.webp"
+      },
+      {
+        "type": "headingDescription",
+        "number": "03",
+        "heading": "Klaviyo-Powered <br /> Personalization  &amp; Retention",
+        "description": "With Klaviyo, we didn’t just automate emails—we built an entire retention strategy designed to nurture customers and boost revenue.<br /><br /><strong>Flows Implementation:</strong> We implemented a series of high-impact automated flows tailored to engage customers at crucial touchpoints:",
+        "listItems": [
+          "<strong>Abandoned Cart &amp; Checkout Flows:</strong> Re-engaged potential buyers with personalized reminders, urgency, and exclusive offers.",
+          "<strong>Browsed Abandonment Flow:</strong> Captured hesitant visitors by showcasing relevant products and customer testimonials to build trust.",
+          "<strong>Winback Series:</strong> Targeted inactive customers with compelling offers, exclusive deals, and storytelling to reignite interest.",
+          "<strong>Customer Thank You Flow:</strong> Strengthened post-purchase relationships through appreciation, personalized follow-ups, and loyalty rewards.",
+          "<strong>Restructured Welcome Series:</strong> Enhanced onboarding with educational content, personalized recommendations, and incentives for first-time buyers.",
+          "<strong>Updated Email Templates:</strong> Created visually appealing, customer-focused designs that boosted credibility and engagement, driving conversions."
+        ]
+      },
+      {
+        "type": "image",
+        "alt": "PSD product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/02/Heading-3.webp"
+      },
+      {
+        "type": "screenshotDetails",
+        "className": "bg-[#f7f7f7]!",
+        "image": "/images/2025/02/Frame-427320751-2.webp",
+        "imageAlign": "right",
+        "header": {
+          "number": "04",
+          "heading": "Crafting a High-End  <br /> Shopping Experience",
+          "description": "A luxury eCommerce experience isn’t just about beautiful visuals—it’s about seamless, effortless usability. We: <br/> <br/> <ul class='list-disc ps-[30px] space-y-[4px] [&_strong]:font-semibold [&_strong]:text-[#4f4f4f]'><li>Designed a <strong>clean, modern, and immersive UI/UX</strong> that amplifies the brand’s artistic essence and simplifies product discovery.</li><li>Created a <strong>fully responsive</strong> layout optimized for flawless browsing across all devices, ensuring a mobile-first approach.</li><li>Enhanced <strong>site navigation</strong> with an intuitive structure that reduces friction, making the shopping journey engaging and effortless.</li></ul>"
+        },
+        "details": []
+      },
+      {
+        "type": "headingDescription",
+        "number": "05",
+        "heading": "Smart Features That Drive <br />  Conversions",
+        "description": "To make shopping effortless and interactive, we introduced advanced tools tailored for user convenience:",
+        "listItems": [
+          "<strong>Store Locator:</strong> A seamless way for customers to find retail locations instantly, driving offline sales.",
+          "<strong>Bundle Builder:</strong> A flexible product bundling system designed to <strong>increase AOV and cross-sell opportunities </strong> through intelligent product pairing.",
+          "<strong>Product Finder Quiz: </strong> A  <strong> personalized shopping assistant </strong> that recommends fragrances based on user preferences, driving both engagement and conversions by reducing decision fatigue."
+        ]
+      },
+      {
+        "type": "video",
+        "videoUrl": "/images/2025/02/4aaa4f6eab9740c3a5dec565428f2288.mov"
+      },
+      {
+        "type": "statsDescription",
+        "title": "Results",
+        "stats": [
+          {
+            "value": "31.76%",
+            "caption": "Email marketing efforts accounted for"
+          },
+          {
+            "value": "187%",
+            "caption": "increase vs. the previous period"
+          },
+          {
+            "value": "85%",
+            "caption": "increase in total revenue"
+          }
+        ],
+        "intro": "Our Shopify transformation delivered measurable improvements across key performance metrics:",
+        "details": [
+          "<strong>Total Revenue Growth:</strong> Andrea Maack saw an 85% increase in total revenue compared to the previous period.",
+          "<strong>Klaviyo-Attributed Revenue:</strong> Email marketing efforts accounted for 31.76% of total revenue, with a 187% increase vs. the previous period.",
+          "<strong>Higher Engagement:</strong> The Product Finder Quiz and Bundle Builder created a more personalized experience, increasing customer interaction and lowering drop-off rates.",
+          "<strong>Increased Conversions:</strong> A frictionless UX and powerful backend optimizations lowered bounce rates and boosted purchase intent.",
+          "<strong>Lift in AOV:</strong> Strategic bundling and Klaviyo-driven upsells led to a notable increase in order values, driving profitability.",
+          "<strong>Faster, Smoother Performance:</strong> The optimized site ensures quick load times, seamless navigation, and a hassle-free checkout, reducing abandonment rates."
+        ]
+      },
+      {
+        "type": "video",
+        "videoUrl": "/images/2025/02/b655c6f59ea64792b9ada277bbf19504.mp4"
+      }
+    ]
+  },
+  "peak-chocolate": {
+    "name": "Peak Chocolate",
+    "slug": "peak-chocolate",
+    "cardDescription": "Revamped Shopify Plus Store for Enhanced Engagement & Brand Visibility",
+    "descriptionPrimary": "Transforming a Shark Tank-Winning Chocolate Brand",
+    "descriptionSecondary": "into a High-Conversion Shopify Experience",
+    "card": {
+      "image": "/images/2025/10/Frame-427320691-15-1-e1761684011146.webp",
+      "alt": "Screenshot of Peak Chocolate – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "Peak Chocolate banner – Designed and developed by 100xelevate.",
+        "image": "/images/2025/02/Banner-2.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Background",
+            "description": "Peak Chocolate, a premium functional chocolate brand, needs to optimize the shopping experience to increase Average Order Value (AOV) and conversions. With four main chocolate categories, ensuring clear product categorization, seamless navigation, and a branded experience was crucial.<br /><br />100xelevate stepped in with a strategic CRO-driven design, creating a visually compelling store that simplified product discovery, built trust, and made the buying process as effortless as possible.",
+            "listHeading": "Services",
+            "listItems": [
+              "E-commerce Strategy",
+              "Website Style Guide",
+              "UI/UX Design"
+            ]
+          },
+          {
+            "heading": "The Challenge",
+            "description": "Peak Chocolate isn’t just another chocolate brand; it’s a functional, performance-driven product designed for those who take their health seriously. While its in-store presence was strong, its digital storefront didn’t reflect the same energy, precision, and intent. Visitors were landing on the site, but not converting at the rate they should be. The challenge was clear, bridge the gap between curiosity and conversion.",
+            "listHeading": "Tech Partners",
+            "listItems": [
+              "Shopify Plus",
+              "Figma"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "videoUrl": "/images/2025/02/Peak-Choclate.mp4"
+      },
+      {
+        "type": "screenshotDetails",
+        "image": "/images/2025/02/Frame-427320751-1-1-1.webp",
+        "header": {
+          "heading": "The Approach",
+          "description": "Every good solution starts with the right strategy. We approached this project with one key thought: how do we translate the essence of Peak Chocolate into an intuitive digital experience that encourages action?"
+        },
+        "details": [
+          {
+            "heading": "1. Sensible Brand Integration",
+            "description": "From the moment visitors land on the website, the branding has to be unmistakable. We designed an interface that didn’t just showcase products but told a compelling, performance-driven story. A bold, animated banner set the tone, immediately positioning Peak Chocolate as a brand built for action. Every element was designed to speak to a health-conscious, results-oriented audience."
+          },
+          {
+            "heading": "2. A Website for the Era",
+            "description": "E-commerce is fast, interactive, and highly personalized, and Peak Chocolate’s website needed to reflect that. Instead of overwhelming customers with unnecessary clicks, we streamlined navigation, allowing users to instantly find their ideal product category based on their needs.<ul><li><strong>Curated Bundles & Best Sellers:</strong> We positioned Peak Chocolate’s best-selling products and value bundles front and center to encourage higher AOV.</li><li><strong>Direct Add-to-Cart Functionality:</strong> Customers could add products directly from sliders and product highlights, reducing unnecessary steps and making checkout seamless.</li><li><strong>Real-Time UGC & Reviews:</strong> Social proof wasn’t an afterthought. We integrated live customer testimonials and reviews into the purchase journey, reinforcing trust every step of the way.</li></ul>"
+          },
+          {
+            "heading": "3. Merging Function and Aesthetic",
+            "description": "The Peak Chocolate experience is rooted in science and performance, and the website had to reflect that balance. Clean, structured layouts ensured intuitive product discovery, while high-impact visuals and content drove engagement.<ul><li><strong>Ingredient Transparency:</strong> We designed a visually rich breakdown of ingredients, making it easy for health-conscious customers to understand what they were consuming.</li><li><strong>Founder’s Story & Mission:</strong> Knowing that today’s customers connect with brands on a deeper level, we crafted a dedicated space for the founder’s journey, bridging the gap between product and purpose.</li></ul>"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "alt": "Peak Chocolate product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/02/Heading-5.webp"
+      },
+      {
+        "type": "headingDescription",
+        "heading": "The Relationship",
+        "description": "Peak Chocolate’s new Shopify store isn’t just another online shop, it’s an extension of its brand philosophy. By aligning UX with customer expectations, we created an experience that feels fast, engaging, and seamlessly functional. Conversions increased, bounce rates dropped, and customers spent more time exploring what the brand had to offer. More than just a redesign, this project was about building a relationship between the brand and its digital audience, one that continues to evolve with every click."
+      }
+    ]
+  },
+  "tonight-we-dine": {
+    "name": "Tonight We Dine",
+    "slug": "tonight-we-dine",
+    "cardDescription": "Enhanced Restaurant Site Design to Boost Online Orders & Engagement",
+    "descriptionPrimary": "Turning Restaurant Traffic into Online Orders:",
+    "descriptionSecondary": "Optimizing UX for Tonight We Dine",
+    "card": {
+      "image": "/images/2025/10/Frame-1000001511-1-e1761684044269.webp",
+      "alt": "Screenshot of Tonight We Dine restaurant – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "video",
+        "videoUrl": "/images/2025/02/4c10-4a52-a2d2-4cd46daabb3f.mp4"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Background",
+            "description": "Tonight We Dine is not just a restaurant, it’s an experience. With a growing number of customers dining in, the challenge was to turn online visitors into active customers. Their Shopify store had a high bounce rate of 63%, meaning a majority of visitors left without placing an order. The store wasn’t just a digital menu; it needed to be a seamless ordering platform that reflected the restaurant’s high-energy atmosphere and curated dining experience.",
+            "listHeading": "Services",
+            "listItems": [
+              "UX/CRO/Functionality Audit",
+              "Creative Direction",
+              "UI/UX Design"
+            ]
+          },
+          {
+            "heading": "The Ask: Creating a High-Impact UX That Converts",
+            "description": "The goal was simple, get more visitors to place orders. The Shopify store needed a fresh design that made browsing easier and ordering effortless. Restaurant customers are used to a smooth dining experience, and the website had to match that level of ease and engagement, making it simple, intuitive, and enjoyable to order online.",
+            "listHeading": "Tech Partners",
+            "listItems": [
+              "Shopify Plus",
+              "Figma"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "videoUrl": "/images/2025/02/Tonight-We-Dine.mp4"
+      },
+      {
+        "type": "screenshotDetails",
+        "image": "/images/2025/02/01.-Homepage-V2-1.webp",
+        "header": {
+          "heading": "The Approach: Merging Function and Aesthetic",
+          "description": "We took a strategic approach, ensuring that every design choice served a purpose. A modern, visually rich layout was introduced to match the sophistication of Tonight We Dine’s in-person experience. The homepage was redesigned to provide immediate access to key product categories while making exclusive online offers and meal combos stand out."
+        },
+        "details": [
+          {
+            "heading": "1. Curating an Optimized Ordering Flow",
+            "description": "To ensure customers didn’t just browse but placed orders, we integrated a highly visual, easy-to-navigate slider system. This allowed users to explore different meal categories quickly, reducing frustration and decision fatigue. Customers could browse through menu highlights without excessive scrolling, keeping them engaged and increasing order potential."
+          },
+          {
+            "heading": "2. Introducing Exclusive Online-Only Offers",
+            "description": "We leveraged the power of scarcity and exclusivity by introducing special meal combos and discounts exclusively for online orders. This gave customers a compelling reason to place an order instead of just visiting the website and leaving. These deals were prominently displayed to create urgency and excitement."
+          },
+          {
+            "heading": "3. Building Social Proof with Real-Time Testimonials",
+            "description": "Understanding that trust plays a major role in online ordering, we incorporated UGC-driven customer testimonials. Real reviews and feedback from diners created a sense of credibility and community, reassuring new visitors that they were making a great choice. Testimonials were dynamically placed within the shopping journey, reinforcing the quality of the dining experience."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "alt": "Tonight We Dine product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/02/tonight-we-dine-2.png"
+      },
+      {
+        "type": "headingDescription",
+        "heading": "Bringing It All Together: The Results",
+        "description": "The new design transformed the Tonight We Dine online experience, making it more intuitive, visually compelling, and conversion-friendly. The bounce rate saw a significant drop from 63% to under 40%, as more visitors engaged with the ordering process. The introduction of exclusive online offers and meal combos led to an increase in online order volume, while the simplified navigation and optimized browsing experience ensured that customers could find what they were looking for faster.<br /><br />By aligning functionality with a premium aesthetic, we helped Tonight We Dine create a Shopify store that feels just as refined and inviting as their physical restaurant. Every element was designed with the end-user in mind, ensuring that visitors didn’t just explore but actively engaged and placed orders. This case study proves that with the right UX approach, even an online restaurant experience can be transformed into an immersive and revenue-driving platform."
+      }
+    ]
+  },
+  
+  "hoodies-for-heroes": {
+    "name": "Hoodies For Heroes",
+    "slug": "hoodies-for-heroes",
+    "cardDescription": "Built Custom Shopify Store to Enhance Sales & Brand Presence",
+    "descriptionPrimary": "Bringing Purpose & Style Together:",
+    "descriptionSecondary": "A UX-Driven Shopify Experience for Hoodies For Heroes",
+    "card": {
+      "image": "/images/2025/02/Frame-1000001678-1-768x850-1.avif",
+      "alt": "Screenshot of Cambie store – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "Hoodies For Heroes product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/02/Frame-1000001534.webp",
+        "width": 4800,
+        "height": 984
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Challenge",
+            "description": "Hoodies For Heroes is more than just a fashionable clothing and accessories brand, it’s a movement dedicated to donations and sharing those donations to a trusted non-profit organization. While their mission was powerful, their online store lacked the engagement, ease of navigation, and conversion-driven design necessary to translate their impact into sales. Customers were browsing but not always finding what they needed, and the shopping experience lacked the smooth, inspiring flow the brand deserved. The goal? Craft a site that not only reflects brand value but also makes purchasing effortless and enjoyable.",
+            "listHeading": "Services",
+            "listDescription": "We collaborated with Hoodies For Heroes to redefine their online experience and core value through:",
+            "listItems": [
+              "UX Design",
+              "Wireframes",
+              "Website Style Guide",
+              "Conversion Rate Optimization",
+              "Listicals Pages"
+            ]
+          },
+          {
+            "heading": "The Approach",
+            "description": "100xelevate focused on blending brand storytelling with a seamless shopping experience. We just wanted to make sure that the message should convey on a very solid note that the customer is not just buying but helping change our World. Every page, feature, and section was designed to inspire, engage, and simplify the customer journey, from mission-driven storytelling to a frictionless checkout process.",
+            "listHeading": "Tech Partners",
+            "listItems": [
+              "Shopify",
+              "Figma",
+              "Heroku",
+              "Yotpo"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "screenshotDetails",
+        "image": "/images/2025/02/Frame-427320753-3.webp",
+        "imageAlign": "left",
+        "details": [
+          {
+            "heading": "Easy Navigation & Product Discovery",
+            "description": "We restructured the entire site layout to create an intuitive shopping experience. A clean, well-structured menu ensures customers can easily browse collections, while best-seller collections with variation options were strategically placed for high visibility and conversion potential.",
+            "className": "ps-[0px]!"
+          },
+          {
+            "heading": "Bringing the Brand to Life",
+            "description": "Hoodies For Heroes isn’t just about apparel, it’s about honoring those visions to help the world. We designed a unique ‘Our Story’ page that delivers a personalized and impactful brand narrative, helping customers connect emotionally with the mission. Through strategic content placement, we ensured that the brand’s values and purpose were clear at every touchpoint.",
+            "className": "ps-[0px]!"
+          },
+          {
+            "heading": "Optimized Product Pages for Higher Conversions",
+            "description": "We created high-converting PDP and collection pages with engaging layouts, featuring detailed product descriptions, compelling offers, urgency-driven scarcity tactics, and customer reviews. This combination helped boost trust and drive more confident purchasing decisions.",
+            "className": "ps-[0px]!"
+          },
+          {
+            "heading": "Enhanced Mobile Shopping Experience",
+            "description": "With mobile-first commerce on the rise, we introduced a sticky add-to-cart button bar that ensures customers can quickly add items to their cart without scrolling back and forth. This reduces friction and keeps shoppers engaged in the buying process.",
+            "className": "ps-[0px]!"
+          },
+          {
+            "heading": "Interactive & Personalized Shopping",
+            "description": "To further elevate engagement, we designed a custom bundle builder experience that allows customers to mix and match products, creating a sense of exclusivity and personalization. Cool animation effects were also incorporated to give the site a vibrant, modern feel that reflects the brand’s energetic and mission-driven identity.",
+            "className": "ps-[0px]!"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "alt": "Hoodies For Heroes section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/02/Heading-13-1.webp"
+      },
+      {
+        "type": "headingDescription",
+        "heading": "The Impact",
+        "description": "Hoodies For Heroes now has a Shopify store that not only reflects its powerful mission but also makes shopping easy, engaging, and conversion-optimized. With improved navigation, dynamic storytelling, and high-performing product pages, customers can now connect with the brand while enjoying a seamless shopping experience."
+      }
+    ]
+  },
+  "husband-pillow": {
+    "name": "Husband Pillow",
+    "slug": "husband-pillow",
+    "cardDescription": "Shopify Store Redesign Driving Sales with Enhanced User Experience",
+    "descriptionPrimary": "Elevating Comfort Shopping:",
+    "descriptionSecondary": "A UX-Driven Transformation for Husband Pillow",
+    "card": {
+      "image": "/images/2025/06/image-13-e1763479337676.webp",
+      "alt": "Screenshot of Husband Pillow store – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "Husband Pillow product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/02/Mask-group-5.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Challenge",
+            "description": "Husband Pillow is a brand trusted for its premium comfort solutions, but its online store didn’t reflect the same level of ease and sophistication. Shoppers browsed but often left without making a purchase. With a wide variety of pillow configurations, many customers struggled to find the right fit. The challenge was to create an intuitive, engaging, and conversion-focused experience that made shopping effortless and helped customers find their perfect pillow with confidence.",
+            "listHeading": "Services",
+            "listDescription": "We partnered with Husband Pillow to deliver a complete digital transformation, including:",
+            "listItems": [
+              "UX Design",
+              "Shopify Development",
+              "Wireframes",
+              "Website Style Guide",
+              "Conversion Rate Optimization",
+              "Product Finder Quiz Page"
+            ]
+          },
+          {
+            "heading": "The Approach",
+            "description": "We focused on creating a shopping experience that wasn’t just visually appealing but also seamlessly guided users toward making a purchase. By refining navigation, enhancing product presentation, and personalizing the customer journey, we designed an eCommerce store that turned passive browsing into active buying."
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "videoUrl": "/images/2025/06/Watch-Husband-Pillow-Aspen-Edition-Reading-and-Bed-Rest-Pillow-with-Arms-on-Amazon-Live.mp4"
+      },
+      {
+        "type": "headingDescription",
+        "heading": "Smart Integrations for a Better Experience",
+        "description": "To improve user engagement and streamline product selection, we implemented a dynamic product configurator, a personalized product finder quiz, and real-time content updates. These features ensured that every visitor could easily navigate the product range, receive tailored recommendations, and confidently make a purchase."
+      },
+      {
+        "type": "headingDescription",
+        "heading": "Guided Shopping with the Product Finder Quiz",
+        "description": "Choosing the right pillow can be overwhelming, so we developed a product finder quiz that simplified decision-making. Customers answered a few guided questions, and the system dynamically adjusted recommendations based on their needs, ensuring a personalized and confidence-boosting shopping experience.",
+        "className": "pt-[0px]!"
+      },
+      {
+        "type": "image",
+        "alt": "Hoodies For Heroes product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/husband-pillow-2.png"
+      },
+      {
+        "type": "screenshotDetails",
+        "image": "/images/2025/06/Landing-Page-Revamp-Feedback-Incorporation-2-1.webp",
+        "imageAlign": "left",
+        "details": [
+          {
+            "heading": "Personalized Product Configuration",
+            "description": "We designed an interactive product configurator, allowing customers to customize their pillows effortlessly. The UX enhancements and modern interface ensured that product variations were visually clear and easy to personalize, making the shopping experience engaging and informative.",
+            "className": "ps-[0px]!"
+          }
+        ]
+      },
+      {
+        "type": "screenshotDetails",
+        "image": "/images/2025/06/Landing-Page-Revamp-Feedback-Incorporation-2.webp",
+        "imageAlign": "right",
+        "details": [
+          {
+            "heading": "Optimized Product Landing Pages",
+            "description": "To drive conversions, we redesigned product pages and landing pages with a focus on trust-building elements like customer reviews, urgency-driven offers, and clear product benefits. Strategically placed scarcity tactics helped encourage faster decision-making while maintaining credibility and transparency.",
+            "className": "ps-[0px]!"
+          },
+          {
+            "heading": "Dynamic Content for an Adaptive Shopping Experience",
+            "description": "To further personalize the customer journey, we introduced real-time content updates that adjusted product recommendations, descriptions, and visuals based on quiz responses. This created a tailored shopping experience where customers saw the most relevant options without having to navigate manually.",
+            "className": "ps-[0px]!"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "alt": "Husband Pillow section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/Frame-1000001481-1.webp"
+      },
+      {
+        "type": "headingDescription",
+        "heading": "The Results: A Frictionless, High-Converting Store",
+        "description": "With an intuitive configurator, a guided product finder quiz, and a more streamlined product discovery experience, Husband Pillow now offers a seamless and conversion-optimized Shopify store. The result? Higher engagement, reduced drop-offs, and an increase in completed purchases."
+      }
+    ]
+  },
+  "stand": {
+    "name": "Stand+",
+    "slug": "stand",
+    "cardDescription": "Increased AOV by 67% with UX Redesign & Bundle Strategy",
+    "descriptionPrimary": "+67% AOV Boost From UX Redesign",
+    "descriptionSecondary": "and Bundle Strategy for STAND+",
+    "card": {
+      "image": "/images/2025/06/Frame-1000001678-e1763479370581.webp",
+      "alt": "Screenshot of Husband Pillow store – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "Husband Pillow product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/Frame-427320752-4.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Challenge",
+            "description": "STAND+ Shoes is more than just footwear; it’s a movement that blends comfort, utility, and style with meaning. But their previous website didn’t quite carry that message forward. The user journey was disjointed, the product presentation lacked storytelling, and the overall experience didn’t encourage conversion or increase average order value (AOV). With customers arriving but not staying, the need was clear: STAND+ needed an online experience that resonated with its brand mission and inspired more confident purchases.",
+            "listHeading": "Services",
+            "listDescription": "We partnered with STAND+ Shoes for a full-funnel eCommerce revamp:",
+            "listItems": [
+              "UX Design",
+              "Website Style Guide",
+              "Conversion Rate Optimization",
+              "Design & Development"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "alt": "Husband Pillow product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/Frame-1000001536-3.webp"
+      },
+      {
+        "type": "screenshotDetails",
+        "image": "/images/2025/06/Lander-Desktop-1.webp",
+        "imageAlign": "left",
+        "header": {
+          "heading": "The Approach",
+          "description": "We took a strategic approach, ensuring that every design choice served a purpose. A modern, visually rich layout was introduced to match the sophistication of STAND+ Shoes’ brand experience. The homepage was redesigned to provide immediate access to key product categories while making exclusive online offers and bundle highlights stand out."
+        },
+        "details": [
+          {
+            "heading": "1. Smart Design Meets Smart Conversions",
+            "description": "The homepage was redesigned to function as both a welcome mat and a conversion driver. We placed high-impact hero banners, value propositions above the fold, and clear product pathways for first-time visitors. Product pages were restructured to include layered product information, persuasive copy, trust badges, and reviews all while keeping performance fast and mobile responsiveness top priority. A bundle builder section and best-seller modules further supported AOV by suggesting smart upsells in real time.",
+            "className": "ps-[0px]!"
+          },
+          {
+            "heading": "2. Style Guide and Visual Consistency",
+            "description": "We built a comprehensive website style guide to ensure every touchpoint reflected the brand’s unique tone and aesthetic. From button hovers to type hierarchy and iconography, we crafted a digital presence that felt as put-together as the shoes themselves.",
+            "className": "ps-[0px]!"
+          },
+          {
+            "heading": "3. Conversion-Optimized Development",
+            "description": "Beyond design, our development team implemented smooth interactions, quick-load animations, and mobile-friendly layouts to ensure performance wasn’t sacrificed for looks. Checkout flows were tested and optimized to minimize cart abandonment, while backend structures were built to allow easy scaling.",
+            "className": "ps-[0px]!"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "alt": "Husband Pillow section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/Frame-1000001664-7.webp"
+      },
+      {
+        "type": "headingDescription",
+        "heading": "The Results",
+        "description": "With an elevated UX, better product storytelling, and CRO-led optimizations, STAND+ Shoes saw more engaged shoppers and increased sales. The site is now a strong extension of their brand promise inviting, inspiring, and incredibly easy to shop. The redesign didn’t just improve the store’s aesthetic; it strategically transformed it into a high-performing sales channel.<br /><br />Looking to step into your next eCommerce upgrade? <strong>Let’s talk about how we can elevate your brand.</strong>"
+      },
+      {
+        "type": "image",
+        "alt": "Husband Pillow section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/Frame-1000001665-2.webp"
+      }
+    ]
+  },
+  "rev-gum": {
+    "name": "Rev gum",
+    "slug": "rev-gum",
+    "cardDescription": "Achieved 2X Conversions with UX-Driven CRO Strategy",
+    "descriptionPrimary": "243% Revenue Surge With a Klaviyo-Driven CRO",
+    "descriptionSecondary": "Overhaul for REV GUM",
+    "card": {
+      "image": "/images/2025/06/Listing-Image-1-e1765466679868.webp",
+      "alt": "Screenshot of Rev gum store – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "Rev gum product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/Frame-427320752-3.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Challenge",
+            "description": "REV GUM entered the market with a bold promise: clean, sugar-free gum packed with caffeine and electrolytes for energy and hydration. But their Shopify experience didn’t reflect the high-performance nature of their product. Despite 10k+ sessions a month, conversions sat around 1% and AOV hovered at $34. The site lacked the punch needed to convert curious visitors into confident customers, and recurring revenue potential was underutilized.",
+            "listHeading": "Services",
+            "listDescription": "We partnered with REV GUM to take a data-first, experience-rich approach:",
+            "listItems": [
+              "UX Design",
+              "Conversion Rate Optimization",
+              "Klaviyo Email & Retention Strategy",
+              "Shopify Design & Development"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "videoUrl": "/images/2025/06/Rev-Gum-Video.mp4"
+      },
+      {
+        "type": "screenshotDetails",
+        "image": "/images/2025/06/01.-Homepage-3-1.webp",
+        "imageAlign": "left",
+        "header": {
+          "heading": "The Approach",
+          "description": "100xelevate crafted a strategy rooted in behavioral insights and CRO best practices. We designed for intent, reducing friction and guiding users toward fast, confident checkouts. From landing pages to product presentation, we optimized for clarity, trust, and urgency. Our development team ensured every component loaded fast, worked flawlessly across devices, and supported dynamic personalization. Behind the scenes, we built a lean tech stack that powered performance, retention, and scale."
+        },
+        "details": [
+          {
+            "heading": "Smarter Product Experience, Smarter Sales",
+            "description": "We redesigned REV GUM’s storefront to convert. The homepage guided users based on their energy or hydration needs. Product pages included clear benefit callouts, real customer reviews, and A/B tested offers to encourage bundling. We added urgency banners, comparison sections, and bold value props to nudge first-time buyers and boost AOV.",
+            "className": "ps-[0px]!"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "alt": "Rev gum section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/Frame-1000001664-6.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Results Speak Loudly",
+            "description": "Since partnering with 100xelevate, REV GUM has seen massive gains:<br /><br />• Conversion Rate grew from <strong>~1% to 2%+</strong><br />• AOV jumped from <strong>$34 to $42+</strong><br />• Revenue from 10k sessions jumped from <strong>~$4k to $12k+</strong><br />• Recurring revenue hit <strong>$5,418.57</strong><br />• Klaviyo Attributed Revenue: <strong>19.26% of total sales</strong><br />• Total Klaviyo Revenue Growth: <strong>243% vs. previous period</strong><br /><br />These aren’t vanity metrics they’re outcomes from personalized experiences, CRO-focused design, and a powerful retention engine.",
+            "listHeading": "Klaviyo Automation That Converts and Retains",
+            "listDescription": "To match the front-end improvements, we built a Klaviyo system that didn’t just send emails it converted. We implemented:",
+            "listItems": [
+              "Abandoned Cart & Checkout Flows",
+              "Welcome Series Restructure",
+              "Winback, Post-Purchase & Thank You Flows",
+              "Customer Education Campaigns",
+              "Personalized Product Recommendations"
+            ],
+            "listFooter": "The designs were visually aligned with the brand, packed with bite-sized education, and used segmentation to talk directly to each customer type."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "alt": "Rev gum section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/Heading-3-1.webp"
+      },
+      {
+        "type": "headingDescription",
+        "heading": "The Transformation",
+        "description": "Today, REV GUM’s online store feels as strong as their product. Built to perform. Built to scale. Customers now move through a journey that reflects the same energy the brand delivers with confidence, clarity, and conversion at every step.<br /><br /><strong>Ready to energize your eCommerce store? Let’s build something powerful.</strong>"
+      }
+    ]
+  },
+  "rsvlts": {
+    "name": "RSVLT",
+    "slug": "rsvlts",
+    "cardDescription": "Boosted Mobile Orders by 92% with Shopify Store and App Development",
+    "descriptionPrimary": "+92% Increase in Mobile Orders for RSVLTS",
+    "descriptionSecondary": "With CRO + App Integration",
+    "card": {
+      "image": "/images/2025/06/Listing-Image-2-e1763479447615.webp",
+      "alt": "Screenshot of Rev gum store – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "RSVLTS product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/Frame-85-2.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Challenge",
+            "description": "RSVLTS (Roosevelts) isn’t just a clothing brand they’re a full-on vibe. With their loud, bold, and ridiculously fun apparel inspired by pop culture, movies, and sports icons, RSVLTS had already built a cult-like community. But behind the scenes, the digital infrastructure wasn’t keeping up. We came in at a moment when the brand needed more than just new features they needed a system that could scale with their energy, keep up with their audience, and drive serious revenue growth.<br /><br />RSVLTS (Roosevelts) is not your average apparel brand. With bold, pop-culture-inspired designs and a rapidly growing fan base, the brand had strong momentum but their digital experience wasn’t evolving at the same pace. The challenge? Build an infrastructure that could match RSVLTS’ explosive growth while improving mobile UX, boosting AOV, and streamlining wholesale operations all without compromising the brand’s unique energy.",
+            "listHeading": "Services",
+            "listDescription": "We partnered with RSVLTS to elevate their entire shopping experience through:",
+            "listItems": [
+              "Mobile App Development",
+              "Shopify Store Development",
+              "Conversion Rate Optimization (CRO)",
+              "AOV Growth Strategies (Bundles, Loyalty, Wholesale Enablement)"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "alt": "RSVLTS product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/ZenBook-Duo-14.webp",
+        "className": "bg-[#DBDCD6]!"
+      },
+      {
+        "type": "screenshotDetails",
+        "image": "/images/2025/06/01.-Homepage-Desktop-V1-1.webp",
+        "imageAlign": "left",
+        "header": {
+          "heading": "Our Approach",
+          "description": "Working with RSVLTS was as fun as the brand itself. We knew right away this wasn’t about fixing a broken store it was about building one that could run at the speed of their drops, hype, and community. We focused on making the store feel effortless and fun to use, whether someone was shopping their first Bob Ross shirt or bundling for Comic-Con. Every pixel, interaction, and backend process was designed to keep pace with the RSVLTS lifestyle. 100xelevate took a full-funnel approach to commerce optimization. This wasn’t just about pixels it was about performance. From mobile-first architecture to scalable backend development, we aimed to make every touchpoint shoppable, engaging, and built for volume.<br /><br />We aligned design with community-driven storytelling and engineered the backend to support loyalty, upselling, and flexible fulfillment."
+        },
+        "details": []
+      },
+      {
+        "type": "screenshotDetails",
+        "image": "",
+        "imageAlign": "right",
+        "details": [
+          {
+            "heading": "Mobile-First with a Purpose",
+            "description": "We developed a lightning-fast mobile app that allowed fans to shop drops, bundles, and exclusives with minimal friction. The app was designed for instant access and built-in loyalty integration, ensuring high engagement with RSVLTS’ most active customers. Push notifications and exclusive mobile content helped drive repeat traffic and community engagement.",
+            "className": "ps-[0px]!"
+          },
+          {
+            "heading": "Optimized Storefront with CRO at the Core",
+            "description": "On the Shopify side, we enhanced the theme to support quicker product discovery, collection merchandising, and personalized bundles. Every product page featured optimized layouts for conversion clear CTAs, bundle add-ons, urgency triggers, and social proof through reviews and UGC.",
+            "className": "ps-[0px]!"
+          }
+        ]
+      },
+      {
+        "type": "headingDescription",
+        "heading": "Driving AOV Through Smart <br/> Strategy",
+        "description": "We implemented:",
+        "listItems": [
+          "A <strong>Bundle Builder</strong> that encouraged customers to mix and match product sets for a discount.",
+          "A <strong>Loyalty Program</strong> that turned one-time buyers into fans with exclusive perks.",
+          "A <strong>Wholesale Setup</strong> to support B2B expansion, complete with custom login, pricing tiers, and checkout logic."
+        ],
+        "descriptionAfterList": "Each layer added long-term revenue potential without adding friction to the user journey."
+      },
+      {
+        "type": "headingDescription",
+        "heading": "The Impact",
+        "description": "This wasn’t just a redesign it was a full digital upgrade for a brand doing millions in ARR. RSVLTS now runs on a performance-built Shopify setup and a mobile app that feels as alive as their fan base. Customers can bundle fast, buy easy, and come back for more driven by loyalty, excitement, and smart backend workflows. RSVLTS now has a mobile-first, multi-channel commerce system built for scale. With smarter navigation, loyalty-powered retention, and AOV-driving features, the brand is positioned to turn every site visit into a sales moment and every customer into a community member.<br /><br /><strong>Helping a fast-growing brand like RSVLTS feel as fun online as it does in real life? That’s the kind of project we live for. Ready to build yours?</strong>"
+      }
+    ]
+  },
+  "fweygo": {
+    "name": "Fweygo",
+    "slug": "fweygo",
+    "cardDescription": "Built High-Performance Shopify Store Converting 50% More Visitors",
+    "descriptionPrimary": "+3X Conversion Uplift",
+    "descriptionSecondary": "With a Spicy, Crave-Inducing Store Redesign",
+    "card": {
+      "image": "/images/2025/06/Listing-Image-3-e1765466610750.webp",
+      "alt": "Screenshot of Rev gum store – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "Fweygo product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/Frame-1000001537.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Challenge",
+            "description": "Fweygo isn’t your average sweet shop. They bring together fire and flavor with candy that fuses chamoy, spice, and pure indulgence. But the brand needed more than just mouthwatering product shots they needed an online experience that could ignite cravings and convert them into real sales. The store had to deliver on the energy of the product: fun, bold, addictive. That meant building something visually unique, strategically optimized, and designed to make every scroll irresistible.",
+            "listHeading": "Services",
+            "listDescription": "We partnered with Fweygo Candy to build a crave-worthy, conversion-driven store from the ground up:",
+            "listItems": [
+              "UX Design",
+              "Shopify Store Development",
+              "Conversion Rate Optimization",
+              "AOV Growth Strategies"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "videoUrl": "/images/2025/06/Fweygo-Mockup-Video.mp4"
+      },
+      {
+        "type": "screenshotDetails",
+        "className": "bg-[#f7f7f7]!",
+        "image": "/images/2025/06/02.-Product-Page-Desktop.webp",
+        "imageAlign": "left",
+        "header": {
+          "heading": "Our Approach",
+          "description": "From the first moment on the site, we wanted visitors to feel like they just walked into a candy rave. We didn’t settle for clean and minimal we went bold, spicy, and immersive. Our UX focused on high-contrast visuals, playful animations, and a product journey designed around impulse-driven purchases.<br /><br />We knew the real power of the site wouldn’t just come from looks. Every section was crafted to increase AOV: upsell opportunities on the PDP, limited-edition bundles, glowing customer reviews, and urgency-driven callouts. The design made users crave the product, while the strategy made sure they actually bought it."
+        },
+        "details": []
+      },
+      {
+        "type": "headingDescription",
+        "heading": "Flavor Meets Function",
+        "description": "The homepage delivered instant dopamine: a massive product hero, “Spice Up Your Sweets” animation bar, and a best-sellers section loaded with punchy visuals. Scroll further, and you meet the flavor breakdowns, cultural storytelling, and community love through reviews. It wasn’t just a shop it was a brand moment. <br /><br /> Product pages were built to sell fast and smart. Clear variant selectors, quantity steps, and bold ‘Add to Cart’ buttons made sure the experience was friction-free. Mobile-first logic ensured that even snackers on the go could check out in seconds."
+      },
+      {
+        "type": "headingDescription",
+        "heading": "Craving More: AOV Strategy in <br/> Action",
+        "description": "We didn’t just rely on spicy branding we engineered growth with smart AOV tactics:",
+        "listItems": [
+          "<strong>Bundles </strong>  to encourage multi-pack orders",
+          "<strong>Highlighting limited-time drops</strong> for urgency",
+          "<strong>Best seller anchor placement</strong> for quicker decision-making"
+        ],
+        "descriptionAfterList": "These weren’t just features they were conversion triggers baked into the experience."
+      },
+      {
+        "type": "image",
+        "alt": "Fweygo product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/Frame-1000001664-8.webp"
+      },
+      {
+        "type": "headingDescription",
+        "heading": "The Result? Cravings Converted.",
+        "description": "After launch, Fweygo’s store delivered exactly what it promised: high-energy, high-performance shopping. Time on site increased, bounce rates dropped, and AOV got a noticeable lift. The site turned more visitors into repeat buyers and proved that when flavor and function come together, sales follow.<br /><br /><strong>Want to make your Shopify store as irresistible as your product? Let’s bring the heat.</strong>"
+      }
+    ]
+  },
+  "sidekick": {
+    "name": "Sidekick",
+    "slug": "sidekick",
+    "cardDescription": "Increased Conversions by 91% with Personalized UX Enhancements",
+    "descriptionPrimary": "+91% Conversion Lift",
+    "descriptionSecondary": "With UX-Driven Personalization for Sidekick",
+    "card": {
+      "image": "/images/2025/06/Listing-Image-4-e1763479746215.webp",
+      "alt": "Screenshot of Rev gum store – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "Sidekick product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/sidekick-banner-image.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Challenge",
+            "description": "Sidekick is a powerful recovery tool trusted by over 100,000 users, including Olympians and top athletes. But their online store wasn’t built to match the product’s performance. The site needed a better flow, more clarity, and a smarter way to guide shoppers toward the right product. Despite strong traffic and credibility, conversions and AOV weren’t where they could be. We were brought in to change that.",
+            "listHeading": "What We Did",
+            "listItems": [
+              "UX Design",
+              "Shopify Store Development",
+              "Tool Finder Quiz",
+              "Conversion Rate Optimization",
+              "A/B Testing Across Multiple Sections",
+              "AOV Strategies and Bundles",
+              "User-Generated Content (UGC)",
+              "Custom PDP Design",
+              "Store Locator Integration",
+              "Smart Cart With Upsell Features"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "videoUrl": "/images/2025/06/Sidekick-Video.mp4"
+      },
+      {
+        "type": "screenshotDetails",
+        "className": "bg-[#f7f7f7]!",
+        "image": "/images/2025/06/image-73-1.webp",
+        "imageAlign": "left",
+        "header": {
+          "heading": "Our Approach",
+          "description": "We approached the Sidekick project with one clear goal: to turn a great product experience into an equally powerful online journey.<br /><br />First, we simplified the navigation and page structure. Visitors now know exactly where to go and what each tool is made to solve. Then we introduced a custom Tool Finder Quiz   a simple flow that helps users identify which scraper fits their pain point. This feature alone became a key conversion driver.<br /><br />The homepage was redesigned to highlight best sellers, video testimonials, real stories, and bite-sized trust signals. Every section was A/B tested to see what drove action, from button placements to video layouts and even how reviews were shown."
+        },
+        "details": []
+      },
+      {
+        "type": "headingDescription",
+        "heading": "Maximizing Every Step With CRO",
+        "description": "We worked section-by-section to find what worked and drop what didn’t. This included:",
+        "listItems": [
+          "Reviews slider to build trust without distraction",
+          "UGC video placements in critical scroll zones",
+          "Rewriting product descriptions to focus on benefits over features",
+          "Bundles and offer placements tied to use-case (pain relief, daily recovery, injury rehab)"
+        ],
+        "descriptionAfterList": "We also reworked product pages with deeper storytelling, better visuals, comparison tables, and sticky CTAs for smoother checkout journeys."
+      },
+      {
+        "type": "headingDescription",
+        "heading": "Personalization That Drives <br/> Confidence and Conversion",
+        "description": "The Tool Finder Quiz became a standout feature. Simplifying the decision-making process helped reduce hesitation and made users feel confident they were buying the right product for their specific issue.<br /><br />We also added custom upsell logic to the cart. When someone adds a scraper, they’re shown targeted accessories or bundles that make sense for their needs, boosting AOV without overwhelming them."
+      },
+      {
+        "type": "image",
+        "alt": "Fweygo product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/Frame-1000001666.webp"
+      },
+      {
+        "type": "headingDescription",
+        "heading": "The Results",
+        "description": "",
+        "listItems": [
+          "+91% increase in overall conversion rate",
+          "Time-on-site and scroll depth increased significantly",
+          "AOV rose through optimized bundles and smart upsells",
+          "Quiz usage became a top assist in product page conversions",
+          "Bounce rates dropped as visitors were guided with clarity",
+          "Customers engaged more with real reviews, videos, and comparison tools"
+        ]
+      },
+      {
+        "type": "headingDescription",
+        "heading": "The Outcome",
+        "description": "Sidekick now has a Shopify store that’s just as smart and strategic as the product it sells. It’s built for the real world, where people want fast answers, personalized guidance, and a clear path to recovery. Every detail is tested, optimized, and aligned with what customers actually need.<br /><br /> If you’re building a performance product, you deserve a performance store. Let’s build that together.",
+        "className": "pt-[0px]!"
+      }
+    ]
+  },
+  "wild": {
+    "name": "Wild",
+    "slug": "wild",
+    "cardDescription": "Achieved +84% AOV Boost & Faster Conversions for Shark Tank Brand",
+    "descriptionPrimary": "+84% AOV Boost",
+    "descriptionSecondary": "and Faster Conversions for Leading Personal Care Brand We Are Wild",
+    "card": {
+      "image": "/images/2025/06/Listing-Image-7-e1763479770572.webp",
+      "alt": "Screenshot of Wild store – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "Wild product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/Frame-1000001672.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Challenge",
+            "description": "We Are Wild had a strong brand, loyal following, and wide retail reach. But online, the store wasn’t fully aligned with how customers actually shopped. Average Order Value was low, conversions were steady but not scaling, and the product pages didn’t reflect the value behind the brand. With growing traffic and a clear mission, the store needed an upgrade that would turn interest into bigger, more frequent purchases.",
+            "listHeading": "What We Did",
+            "listItems": [
+              "UX Design",
+              "Shopify Store Development",
+              "Conversion Rate Optimization (CRO)",
+              "AOV Strategies",
+              "Custom Bundles & Offers",
+              "Store Locator",
+              "Custom PDPs",
+              "Upsell-Ready Cart Experience"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "videoUrl": "/images/2025/06/Wild-Mockup-Video.mp4"
+      },
+      {
+        "type": "screenshotDetails",
+        "className": "bg-[#f7f7f7]!",
+        "image": "/images/2025/06/image-251-1.webp",
+        "imageAlign": "left",
+        "header": {
+          "heading": "Our Approach",
+          "description": "Wild sells low-cost, high-frequency products, so driving AOV meant designing for smart bundling and minimal friction. We restructured the homepage to guide users directly to best-sellers, subscription sets, and limited-time offers.<br /><br />We rolled out custom product pages that spoke clearly to benefits and broke down savings through bundles. These pages were tested against multiple variations to find the layout and messaging that converted best.<br /><br />The cart experience was also upgraded. We implemented upsell prompts, added visual cross-sells, and made sure the path to checkout stayed simple and fast."
+        },
+        "details": []
+      },
+      {
+        "type": "headingDescription",
+        "heading": "Driving Real Results With CRO + AOV Strategy",
+        "description": "One of our biggest wins was the implementation of bundle logic. By offering simple starter kits, refill bundles, and limited-time sets, we lifted AOV by 84% compared to single-purchase flows.<br /><br />We also integrated a store locator so retail-first customers could easily find Wild near them, reducing bounce and building brand trust.<br /><br />Each major section of the site was A/B tested:",
+        "listItems": [
+          "Hero messages",
+          "Offer timing",
+          "Bundle placements",
+          "Navigation patterns",
+          "Cart behavior"
+        ],
+        "descriptionAfterList": "This lets us double down on what worked and cut what didn’t based on real data.<br /><br />We also reworked product pages with deeper storytelling, better visuals, comparison tables, and sticky CTAs for smoother checkout journeys."
+      },
+      {
+        "type": "image",
+        "alt": "Wild product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/Frame-1000001673.webp"
+      },
+      {
+        "type": "headingDescription",
+        "heading": "The Results",
+        "description": "",
+        "listItems": [
+          "+84% increase in AOV from bundle-driven pages",
+          "+37% increase in conversion rate across all PDPs",
+          "Cart abandonment dropped by 22%",
+          "The returning customer rate improved with smarter cross-sells",
+          "Time to checkout decreased with faster flows and better UX",
+          "Subscription bundle engagement up 61%"
+        ]
+      },
+      {
+        "type": "headingDescription",
+        "heading": "The Outcome",
+        "description": "Wild’s store now moves like their brand feels: clean, confident, and built for repeat use. Every touchpoint, from homepage to cart, is optimized to sell more and sell smarter. With bundles, offers, and A/B-tested layouts, the store performs like a growth engine, not just a catalog.<br /><br />If you’re scaling a product with everyday appeal, optimizing your site isn’t optional, it’s the unlock. And we helped Wild find theirs.",
+        "className": "pt-[0px]!"
+      }
+    ]
+  },
+  "arcor": {
+    "name": "Arcor",
+    "slug": "arcor",
+    "cardDescription": "Boosted AOV by 118% with UX-Driven Shopify Design Improvements",
+    "descriptionPrimary": "+118% AOV Growth for Arcor At Home",
+    "descriptionSecondary": "With a Sweet UX Overhaul",
+    "card": {
+      "image": "/images/2025/06/Listing-Image-5-e1763480385664.webp",
+      "alt": "Screenshot of Wild store – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "Arcor product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/Frame-1000001665-3.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Challenge",
+            "description": "Arcor is one of the biggest names in global candy, but when they launched Arcor At Home a direct-to-consumer storefront they needed an experience that lived up to the legacy. The site had to feel premium, family-friendly, and easy to shop across demographics. It wasn’t just about building a good-looking site. It was about building one that converted visitors into loyal customers, increased average order value (AOV), and reflected the joyful indulgence of the brand.",
+            "listHeading": "Services",
+            "listDescription": "We partnered with Arcor At Home to craft a polished, high-performing eCommerce presence:",
+            "listItems": [
+              "UX Design",
+              "Shopify Store Development",
+              "Conversion Rate Optimization",
+              "AOV Growth Strategies"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "videoUrl": "/images/2025/06/Arcor-Video.mp4"
+      },
+      {
+        "type": "screenshotDetails",
+        "className": "bg-[#f7f7f7]!",
+        "image": "/images/2025/06/01.-Homepage-4.webp",
+        "imageAlign": "left",
+        "header": {
+          "heading": "Our Approach",
+          "description": "With a product so universally loved, we didn’t need gimmicks we needed <strong>clarity, flow, and warmth.</strong> The UX was designed to be ultra-clean and emotionally inviting. We used large lifestyle imagery, bold typography, and playful color accents to immediately draw attention and keep the site vibrant and on-brand.<br /><br />From product discovery to post-purchase, the journey was optimized to be seamless. We introduced smart collection filtering, clear call-to-actions, and made sure best sellers and seasonal favorites were always front and center."
+        },
+        "details": []
+      },
+      {
+        "type": "headingDescription",
+        "heading": "Design That Makes You Want to <br /> Click 'Add to Cart'",
+        "description": "The homepage leads with a high-impact product hero and scrolls into a rhythmic showcase of colorful treats, value props, and Arcor’s global story. It’s both <strong>visually delightful and commercially strategic</strong>. Animations are used lightly but effectively, keeping the experience joyful without distracting from the product.<br /><br />We created beautifully structured product pages with simple variant selectors, clear pricing, and bold ATC buttons that feel instantly tappable on mobile. The FAQ section was placed intentionally to reduce support friction, and trust-building reviews were integrated early in the journey."
+      },
+      {
+        "type": "headingDescription",
+        "heading": "Sweetening AOV with Smarter  <br /> Strategy",
+        "description": "Our AOV tactics were fully embedded across the journey:",
+        "listItems": [
+          "<strong>Value pack bundles</strong> featured in the hero and collection pages",
+          "<strong>Urgency triggers</strong> for limited-time stock and shipping promos",
+          "<strong>Cross-sells &amp; upgrades</strong> directly within product pages"
+        ],
+        "descriptionAfterList": "We also explored future-proofing options like a loyalty system and upsell automation to support scaling in later phases."
+      },
+      {
+        "type": "image",
+        "alt": "Wild product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/Frame-1000001666-1.webp"
+      },
+      {
+        "type": "headingDescription",
+        "heading": "The Results",
+        "description": "With its polished UX, bold visuals, and CRO-backed structure, Arcor At Home became more than just a candy store it became a full digital extension of the brand’s joy-filled experience. Visitors spent more time exploring, placed larger orders, and came back for more.<br /><br /><strong>Building sweetness into every scroll? That’s what we do. Let’s build your conversion-friendly store next.</strong>"
+      }
+    ]
+  },
+  "blendjet": {
+    "name": "Blendjet",
+    "slug": "blendjet",
+    "cardDescription": "Shopify Rebuild Driving +72% AOV & 3X Conversion Growth",
+    "descriptionPrimary": "+72% AOV Increase",
+    "descriptionSecondary": "and 3x Conversion Growth for Shopify Plus Giant BlendJet",
+    "card": {
+      "image": "/images/2025/06/Listing-Image-6-e1763482181228.webp",
+      "alt": "Screenshot of Blendjet store – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "Blendjet product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/Frame-1000001674.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Challenge",
+            "description": "BlendJet is a household name with a best-selling product, millions of customers, and global recognition. But even for a brand this big, there’s always room to grow. The store had strong traffic, a loyal following, and tons of buzz but CRO and AOV opportunities were still untapped. With multiple funnels, product categories, and marketing angles in play, the challenge was making sure the shopping journey worked just as hard as the media spend.",
+            "listHeading": "What We Did",
+            "listItems": [
+              "UX Design",
+              "Shopify Store Development",
+              "Conversion Rate Optimization",
+              "AOV Strategies",
+              "Custom Landing Pages",
+              "Custom Header Design",
+              "High-Converting PDPs",
+              "User-Generated Content Integration",
+              "Wholesale Channel Setup",
+              "Recipes Section",
+              "Student Program Funnel",
+              "Smart Bundles and Offers",
+              "Store Locator Integration",
+              "Cart Drawer With Upsell Logic"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "videoUrl": "/images/2025/06/Blendjet-Mockup-Video.mp4"
+      },
+      {
+        "type": "screenshotDetails",
+        "className": "bg-[#f7f7f7]!",
+        "image": "/images/2025/06/image-252.webp",
+        "imageAlign": "left",
+        "header": {
+          "heading": "Our Approach",
+          "description": "We began with a full audit of BlendJet’s current flow, from homepage to checkout. Using analytics and heatmaps, we identified friction points and missed conversion opportunities. Every decision was backed by data and tested through real-world user behavior.<br /><br />We rebuilt the PDPs to emphasize benefits, add urgency, and make bundles the clear first choice. Each section on these pages from UGC to FAQs was tested and tweaked until it performed at peak.<br /><br />Custom landers were designed for different audiences: students, fitness fans, and everyday smoothie lovers. We also helped launch a full recipe section, improving time-on-site and email capture through gated content and engagement-focused design."
+        },
+        "details": []
+      },
+      {
+        "type": "headingDescription",
+        "heading": "CRO Meets Personalization",
+        "description": "From the redesigned header and navigation to in-cart upsells and bundle logic, every part of the store was built to move faster and convert smarter.<br /><br />We personalized user experiences by segment: new visitors saw starter kits, returning customers were guided to accessories and reorders, and wholesale buyers had a separate, streamlined flow.<br /><br />Cart drawers were optimized with pre-checkout offers, and discount logic was tied into bundles for bigger purchases without discounting blindly."
+      },
+      {
+        "type": "image",
+        "alt": "Wild product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/Frame-1000001673-1.webp"
+      },
+      {
+        "type": "headingDescription",
+        "heading": "The Results",
+        "description": "",
+        "listItems": [
+          "+72% increase in Average Order Value from bundle placements",
+          "3x lift in conversion on student and wholesale-specific landing pages",
+          "Bounce rate dropped by 35% on PDPs with UGC integration",
+          "Email opt-ins increased by 44% with embedded recipe and offer pages",
+          "New wholesale flow helped unlock B2B sales without disrupting DTC"
+        ]
+      },
+      {
+        "type": "headingDescription",
+        "className": "pt-[0px]!",
+        "heading": "The Outcome",
+        "description": "BlendJet’s site now mirrors the power of the product behind it. Every section is fast, tested, and built to scale with the brand. From first scroll to final sale, the site now works harder to increase conversions and push higher AOV without compromising brand personality or speed."
+      }
+    ]
+  },
+  "jot": {
+    "name": "Jot",
+    "slug": "jot",
+    "cardDescription": "Increased AOV by 126% Using Subscription & CRO Strategies",
+    "descriptionPrimary": "+126% AOV Growth",
+    "descriptionSecondary": "With Subscription & CRO Tactics for Premium Coffee Brand Jot",
+    "card": {
+      "image": "/images/2025/06/Listing-Image-10-e1765466522551.webp",
+      "alt": "Screenshot of Jot store – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "Jot product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/Frame-1000001667.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Challenge",
+            "description": "Jot offers a one-of-a-kind coffee experience ultra-concentrated, ultra-smooth, and loved by coffee purists. But their existing site wasn’t doing justice to how easy, fun, and delicious the product really is. We introduced the Welcome Bundle strategy from the ground up but there was still room to educate better, reduce decision friction, and drive more customers toward high-value actions like bundling and subscriptions.",
+            "listHeading": "Services",
+            "listDescription": "We teamed up with Jot to shape a site that not only looked premium, but moved users to buy:",
+            "listItems": [
+              "UX Design",
+              "Shopify Store Development",
+              "Conversion Rate Optimization (CRO)",
+              "AOV Growth Strategies"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "videoUrl": "/images/2025/06/JOT-Video.mp4"
+      },
+      {
+        "type": "screenshotDetails",
+        "className": "bg-[#f7f7f7]!",
+        "image": "/images/2025/06/image-71.webp",
+        "imageAlign": "left",
+        "header": {
+          "heading": "Our Approach",
+          "description": "We didn’t just optimize Jot’s site we reinvented how their product is introduced to new customers. One of the most impactful contributions was the creation and rollout of the Welcome Bundle landing section. Built and designed from scratch by our team, it became the highest-converting entry point on the site. Clear pricing, bold visuals, instant 25% off, and three free gifts made it incredibly compelling. More importantly, it was easy for users to understand and act on.<br /><br />We focused on building a landing experience that felt bold, modern, and incredibly clear. The headline spoke directly to coffee lovers, while scroll-based storytelling helped explain what Jot is, why it matters, and how to try it. We placed the Welcome Bundle front and center clear pricing, instant 25% off, and 3 free gifts with a layout that made choosing your product feel rewarding, not complicated.<br /><br />Beyond aesthetics, the PDP and checkout flows were rebuilt to guide decisions. We added an intuitive subscription toggle, simplified the coffee selection steps, and highlighted the recurring benefits to build trust without overloading."
+        },
+        "details": []
+      },
+      {
+        "type": "headingDescription",
+        "heading": "From Curiosity to Cravings: UX <br /> That Converts",
+        "description": "Jot’s homepage was restructured to keep people moving from ‘How it Works’ to step-by-step brewing visuals, followed by reviews and social proof. The landing experience gave a clear sense of how the product works, what it tastes like, and why it’s worth committing to.<br /><br />Mobile-first was the backbone: fast load times, big call-to-actions, thumb-friendly cart additions, and newsletter prompts that didn’t feel intrusive. We optimized for clarity, speed, and conversion without sacrificing the storytelling."
+      },
+      {
+        "type": "headingDescription",
+        "heading": "Caffeinating AOV &amp; Recurring Revenue",
+        "description": "We dialed in the strategy to lift average order value and repeat sales:",
+        "listItems": [
+          "Bundling logic for the welcome bundle with upsell-friendly add-ons",
+          "Autoship-focused layout to turn trials into habits",
+          "Smart messaging around value savings and convenience",
+          "Embedded FAQs and testimonials near decision points"
+        ]
+      },
+      {
+        "type": "image",
+        "alt": "Wild product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/Frame-1000001666-1-1.webp"
+      },
+      {
+        "type": "headingDescription",
+        "heading": "Results Worth a Refill",
+        "description": "",
+        "listItems": [
+          "+126% AOV growth, thanks to bundling and subscription structure",
+          "Recurring orders increased through better opt-in UX",
+          "Mobile welcome offer conversion spiked dramatically",
+          "Bounce rate dropped with simplified storytelling and trust cues"
+        ],
+        "descriptionAfterList": "<strong>From cart to cup, we helped Jot turn premium coffee into a premium DTC experience one scroll, click, and sip at a time.</strong>"
+      }
+    ]
+  },
+  "tinkr": {
+    "name": "TINKR",
+    "slug": "tinkr",
+    "cardDescription": "From 0 to Launch: Achieved 2.5X Higher AOV with Tinkr’s Custom Build",
+    "descriptionPrimary": "From 0 to Launch:",
+    "descriptionSecondary": "2.5x Higher AOV With TINKR’s Custom Shopify Build",
+    "card": {
+      "image": "/images/2025/06/Listing-Image-9-e1763482252271.webp",
+      "alt": "Screenshot of Tinkr store – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "Tinkr product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/Frame-1000001669-1.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Challenge",
+            "description": "Jot offers a one-of-a-kind coffee experience ultra-concentrated, ultra-smooth, and loved by coffee purists. But their existing site wasn’t doing justice to how easy, fun, and delicious the product really is. We introduced the Welcome Bundle strategy from the ground up, there was still room to educate better, reduce decision friction, and drive more customers toward high-value actions like bundling and subscriptions.",
+            "listHeading": "Services Provided",
+            "listDescription": "We partnered with TINKR at day one to build and scale:",
+            "listItems": [
+              "Shopify Store Development (From Scratch)",
+              "UX Design",
+              "Conversion Rate Optimization (CRO)",
+              "Klaviyo Email & Retention Strategy"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "videoUrl": "/images/2025/06/Tinkr-Video.mp4"
+      },
+      {
+        "type": "screenshotDetails",
+        "className": "bg-[#f7f7f7]!",
+        "image": "/images/2025/06/image-72.webp",
+        "imageAlign": "left",
+        "header": {
+          "heading": "Our Approach",
+          "description": "At 100xelevate, we treated this launch like a performance engine. Our approach was to build a storefront that felt simple, but sold smart. We started with wireframes rooted in CRO best practices, then layered in visual storytelling that aligned with the brand’s calm, clean aesthetic. We optimized the user journey for clarity and minimal clicks, while ensuring speed, responsiveness, and performance."
+        },
+        "details": []
+      },
+      {
+        "type": "headingDescription",
+        "heading": "Built to Convert: A Store <br /> Designed for First-Time Shoppers",
+        "description": "We designed the TINKR storefront with conversion top-of-mind, especially knowing it would be the first introduction to the brand for most visitors. The homepage was anchored by an immersive video hero and dynamic collection tiles, helping customers jump into their preferred toolkits instantly. A ‘Best Sellers’ section streamlined discovery, while clear product visuals and in-context shots supported confident decisions. From sticky add-to-cart bars on mobile to subtle animations and hover effects that reflect product interaction, each section of the site was optimized to keep the shopper moving forward. The custom ‘Shop the Project’ carousel encouraged bundling, raising average order value organically. We also created a tailored ‘Our Story’ section that gave visitors the why behind TINKR building both trust and brand love. The homepage introduced users to the brand philosophy, key products, and bundles to raise AOV from the start."
+      },
+      {
+        "type": "headingDescription",
+        "heading": "Email Marketing Built for <br /> Engagement",
+        "description": "We set up Klaviyo with:",
+        "listItems": [
+          "Welcome Series Flows",
+          "Abandoned Cart &amp; Checkout",
+          "Post-Purchase &amp; Education Sequences",
+          "Winback Campaigns",
+          "Personalized Recommendations via Segments"
+        ],
+        "descriptionAfterList": "Every touchpoint matched the brand’s design language and tone, delivering both value and consistency."
+      },
+      {
+        "type": "image",
+        "alt": "Wild product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/Frame-1000001666-1-2.webp"
+      },
+      {
+        "type": "headingDescription",
+        "heading": "The Launch Impact",
+        "description": "With zero prior infrastructure, TINKR’s site launched fast, functioned flawlessly, and immediately converted. The intuitive UX and CRO-first architecture meant that visitors were guided, not overwhelmed. The Klaviyo setup ensured no customer went cold after the first click.<br /><br /><strong>From zero to a polished, high-converting Shopify experience TINKR launched right.</strong>"
+      }
+    ]
+  },
+  "super7": {
+    "name": "Super7",
+    "slug": "super7",
+    "cardDescription": "Built Custom Shopify Store, Increasing Free Trial Signups by 56%",
+    "descriptionPrimary": "+66% AOV Growth and 2.4x Faster Checkout",
+    "descriptionSecondary": "for Super7’s Shopify Experience",
+    "card": {
+      "image": "/images/2025/06/Listing-Image-8-e1763482284769.webp",
+      "alt": "Screenshot of Super7 store – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "Super7 product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/Frame-1000001674-2.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Challenge",
+            "description": "Super7 is more than a toy brand it’s a pop-culture powerhouse with a passionate fan base and a massive catalog of collectibles. But as the product line grew, the site experience became harder to navigate, and conversions weren’t keeping pace with traffic. AOV was low, the cart flow wasn’t optimized, and first-time visitors struggled to find what they loved most. The brand needed a store as fun and functional as its fandom.",
+            "listHeading": "What We Did",
+            "listItems": [
+              "UX Design",
+              "Shopify Store Development",
+              "Conversion Rate Optimization (CRO)",
+              "AOV Strategies",
+              "Custom Landing Pages",
+              "Custom Header Navigation",
+              "High-Converting Product Pages",
+              "Wholesale Channel Setup",
+              "Bundle Offers & Promotions",
+              "Store Locator Integration",
+              "Cart Drawer With Upsells",
+              "Loyalty Program Integration",
+              "Gift Card System"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "videoUrl": "/images/2025/06/Super-7-Mockup-Video.mp4"
+      },
+      {
+        "type": "screenshotDetails",
+        "className": "bg-[#f7f7f7]!",
+        "image": "/images/2025/06/image-256-1.webp",
+        "imageAlign": "left",
+        "header": {
+          "heading": "Our Approach",
+          "description": "We started by mapping how fans explore Super7’s vast product catalog, from collectors hunting limited editions to casual shoppers looking for gifts. We redesigned the homepage to showcase key collections and current drops, and introduced a much cleaner, visual-first mega-menu so users could navigate by category, brand, or theme.<br /><br />We also introduced targeted bundles and exclusive offer pages to lift AOV, especially for lower-ticket items. Every major section of product pages, header layouts, and cart views was tested with A/B variants to find the highest-performing versions."
+        },
+        "details": []
+      },
+      {
+        "type": "headingDescription",
+        "heading": "Design Built for Speed and Sales",
+        "description": "The product pages were overhauled with clear pricing logic, variant selectors, loyalty point visibility, and gift card options. Reviews and scarcity elements were placed high on the page to increase urgency and trust. We also built dedicated landers for major collaborations and franchise-specific collections that turned into reliable revenue drivers.<br /><br />A dynamic cart drawer with intelligent upsells encouraged users to “complete the set” or unlock free shipping with a few extra clicks, boosting both order size and satisfaction."
+      },
+      {
+        "type": "headingDescription",
+        "className": "pt-[0px]!",
+        "heading": "The Numbers That Matter",
+        "description": "",
+        "listItems": [
+          "+66% increase in Average Order Value from bundles and upsells",
+          "2.4x faster checkout time after redesigning cart flow and PDPs",
+          "Conversion rate on custom landers lifted by +42%",
+          "Wholesale funnel created new recurring B2B opportunities",
+          "Loyalty program integration led to a +38% repeat purchase rate",
+          "Gift card use tripled after repositioning and visibility updates"
+        ]
+      },
+      {
+        "type": "image",
+        "alt": "Wild product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/Frame-1000001673-2.webp"
+      },
+      {
+        "type": "headingDescription",
+        "heading": "The Outcome",
+        "description": "Super7’s store now reflects everything the brand stands for creative, collectible, and built to connect. Every element we touched was focused on one thing: making it easier and more exciting for fans to buy. With CRO-backed design, simplified user flows, and strategic AOV drivers, we turned this high-SKU store into a high-performing growth machine.<br /><br /><strong>Want to turn your store into a destination, not just a catalog? Let’s talk.</strong>"
+      }
+    ]
+  },
+  "blackbelt-protein": {
+    "name": "BlackBelt Protein",
+    "slug": "blackbelt-protein",
+    "cardDescription": "Achieved +59% CR Increase After WooCommerce to Shopify Migration",
+    "descriptionPrimary": "+59% Conversion Rate Increase",
+    "descriptionSecondary": "After Full WooCommerce to Shopify Migration for Blackbelt Protein",
+    "card": {
+      "image": "/images/2025/06/Listing-Image.webp",
+      "alt": "Screenshot of Blackbelt Protein store – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "Blackbelt Protein product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/Frame-1000001674-1-1.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Challenge",
+            "description": "Blackbelt Protein is a leading supplement brand in Australia with a growing product line and loyal customer base. But their existing WooCommerce site had hit its limit slow load times, clunky checkout, and a backend that was difficult to manage. The store needed not just a fresh design, but a complete replatforming without losing years of customer, order, and product data. They also wanted to boost AOV and retention through smarter bundling and on-site offers.",
+            "listHeading": "What We Did",
+            "listItems": [
+              "UX Design",
+              "Shopify Store Development",
+              "Complete Data Migration (Products, Orders, Customers)",
+              "Conversion Rate Optimization",
+              "Custom Landing Pages",
+              "Bundles & Stacks for AOV",
+              "High-Converting Product Pages",
+              "Cart Drawer With Upsells",
+              "Retention Strategy Integration (Rewards)"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "videoUrl": "/images/2025/06/BlackBelt-Protein.mp4"
+      },
+      {
+        "type": "screenshotDetails",
+        "className": "bg-[#f7f7f7]!",
+        "image": "/images/2025/06/05.-PDP-Desktop.webp",
+        "imageAlign": "left",
+        "header": {
+          "heading": "Our Approach",
+          "description": "We began by migrating everything from WooCommerce to Shopify cleanly, securely, and without downtime. All products, order histories, and customer accounts were transferred using custom scripts to ensure data integrity. When the client logged into Shopify for the first time, everything looked familiar, only now, it was faster and easier to manage.<br /><br />Design-wise, we rebuilt the experience from scratch. The new store focused on performance and clarity. We streamlined product discovery, improved page load times, and made bundles and stack offers more visible across the site."
+        },
+        "details": []
+      },
+      {
+        "type": "headingDescription",
+        "heading": "Boosting AOV Through Bundles &amp; <br /> Smarter PDPs",
+        "description": "Given the competitive price points of supplements, increasing AOV was key. We created stack bundles protein + pre-workout + accessories and promoted them sitewide. PDPs were optimized with clearer pricing, highlight sections, customer reviews, and reward-point visibility.<br /><br />Custom landers were created for bestsellers, goal-specific supplements (e.g., muscle gain, fat loss), and seasonal offers, each designed to reduce bounce and increase cart adds.<br /><br />Upsells were embedded directly into the cart drawer, with clear logic like “Add this for free shipping” or “Save 15% by stacking.”"
+      },
+      {
+        "type": "headingDescription",
+        "className": "pt-[0px]!",
+        "heading": "The Numbers That Matter",
+        "description": "",
+        "listItems": [
+          "+59% increase in overall conversion rate",
+          "+41% lift in AOV with bundle and upsell integration",
+          "+2.3x faster page load time after migrating to Shopify",
+          "100% customer and order data migrated without loss",
+          "Bounce rate dropped by 28%",
+          "Retention rate improved with the integrated rewards setup"
+        ]
+      },
+      {
+        "type": "image",
+        "alt": "Wild product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/Frame-1000001673-1-1.webp"
+      },
+      {
+        "type": "headingDescription",
+        "heading": "The Outcome",
+        "description": "Today, Blackbelt Protein runs on Shopify with a clean backend, optimized store, and a system built to grow. From a slow, complex WooCommerce setup to a Shopify store that converts, we handled it all design, development, migration, and growth strategy.<br /><br />The store not only looks better, but it also works harder. For the brand and for its customers.<br /><br />If you’re running into platform limits or just feel like your store could be doing more, the right rebuild might be your next growth move. That’s what we delivered for Blackbelt Protein."
+      }
+    ]
+  },
+  "ghost-lifestyle": {
+    "name": "Ghost Lifestyle",
+    "slug": "ghost-lifestyle",
+    "cardDescription": "Increased AOV by 62% with Subscription-First Shopify Approach",
+    "descriptionPrimary": "+62% AOV Lift",
+    "descriptionSecondary": "with a Subscription-First Strategy for Ghost Lifestyle’s Shopify Store",
+    "card": {
+      "image": "/images/2025/06/Listing-Image-1-1-e1763482351766.webp",
+      "alt": "Screenshot of Ghost Lifestyle store – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "Ghost Lifestyle product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/Frame-1000001681.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Challenge",
+            "description": "Ghost Lifestyle is one of the most recognized names in the fitness world, not just for their powerful supplements but also for their vibrant community, apparel, and culture. But with so many product categories, frequent drops, and a large user base, their Shopify store needed to do more than just look good. It had to scale with demand, make bundles irresistible, and boost both conversions and retention.<br /><br />Despite their popularity, the brand wasn’t making the most of its product bundles, returning customers, or subscription potential. The goal: elevate the buying experience, simplify decision-making, and maximize average order value (AOV) and repeat purchases.",
+            "listHeading": "What We Did",
+            "listItems": [
+              "UX Design",
+              "Shopify Store Development",
+              "Conversion Rate Optimization",
+              "AOV Strategies & Subscription Modeling",
+              "Loyalty Program Setup",
+              "Store Locator",
+              "Custom Landers & PDPs",
+              "Bundles & Stack Pages"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "videoUrl": "/images/2025/06/Ghost-Lifestyle-Mockup-Video.mp4"
+      },
+      {
+        "type": "screenshotDetails",
+        "className": "bg-[#f7f7f7]!",
+        "image": "/images/2025/06/image-258.webp",
+        "imageAlign": "left",
+        "header": {
+          "heading": "Our Approach",
+          "description": "We started by understanding how Ghost customers shop from product discovery to bundle stacking and reordering. Using those insights, we redesigned the entire experience with intent-driven layouts and a flexible, fast Shopify backend.<br /><br />Navigation was cleaned up, store structure was simplified, and product pages were built to convert, packed with real benefits, UGC, and upsell prompts. Every page was designed to guide the user, reduce friction, and encourage either a larger cart or a repeat subscription."
+        },
+        "details": []
+      },
+      {
+        "type": "headingDescription",
+        "heading": "Subscription First, Conversion <br /> Always",
+        "description": "For a fitness brand like Ghost, repeat purchases are the heartbeat of growth. So we created custom subscription options on PDPs with clear savings breakdowns, easy toggle behavior, and visual reminders of value. These weren’t just added features, they became part of the buying habit.<br /><br />Bundles were rebuilt around how people actually use products: pre/post workout stacks, wellness packs, and monthly goals. We used scarcity banners, influencer picks, and smart cross-sells to drive multi-item carts."
+      },
+      {
+        "type": "headingDescription",
+        "className": "pt-[0px]!",
+        "heading": "Retention Through Rewards &amp; <br /> Loyalty",
+        "description": "To keep customers engaged long after their first order, we integrated a loyalty program directly into the customer experience. Points for purchases, referrals, and reviews now incentivize the behavior Ghost wanted most: coming back.<br /><br />We also added a store locator for customers who wanted to shop nearby, without hurting DTC conversion opportunities."
+      },
+      {
+        "type": "image",
+        "alt": "Wild product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/Frame-1000001673-2-1.webp"
+      },
+      {
+        "type": "headingDescription",
+        "heading": "The Results",
+        "description": "",
+        "listItems": [
+          "+62% increase in AOV after bundle &amp; subscription strategies",
+          "+38% increase in returning customer rate",
+          "+29% faster checkout completion time with UX refinements",
+          "Loyalty signups up by 44% within 6 weeks",
+          "Subscriptions now contribute 22%+ of monthly revenue"
+        ]
+      },
+      {
+        "type": "headingDescription",
+        "heading": "The Outcome",
+        "description": "Ghost Lifestyle’s Shopify store now performs at the same level as the brand’s energy: bold, fast, and powerful. From simplified subscriptions to loyalty programs that actually convert, the store feels intuitive to customers and smarter for business.<br /><br />We didn’t just build a better site. We built a performance engine for one of the most dynamic brands in fitness."
+      }
+    ]
+  },
+  "create-wellness": {
+    "name": "Create Wellness",
+    "slug": "create-wellness",
+    "cardDescription": "Drove +58% Conversion Rate Growth with UX, Bundles, & Community Offers",
+    "descriptionPrimary": "+58% Conversion Rate Growth",
+    "descriptionSecondary": "for Create Wellness with Smart UX, Bundles & Community-Driven Offers",
+    "card": {
+      "image": "/images/2025/06/Listing-Image-2-1-e1763482396330.webp",
+      "alt": "Screenshot of Create Wellness store – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "Create Wellness product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/Frame-1000001682.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Challenge",
+            "description": "Create Wellness came to us with an amazing product: fast-acting, great-tasting energy gummies designed for modern health-conscious users. But even with a strong brand and a growing community, the site experience didn’t quite match the product’s potential.<br /><br />The site lacked key conversion tactics, and there were missed opportunities around bundling, referral engagement, and AOV optimization. Our goal was simple: make it effortless for people to discover, try, and stick with Create.",
+            "listHeading": "What We Did",
+            "listItems": [
+              "UX Design & Shopify Store Development",
+              "Conversion Rate Optimization (CRO)",
+              "AOV Strategies & Bundling",
+              "Custom Landers & PDP Enhancements",
+              "UGC Integration",
+              "Referral & Ambassador Programs",
+              "Store Locator",
+              "Cart Upsell Flows"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "videoUrl": "/images/2025/06/Create-Wellness-Mockup-Video.mp4"
+      },
+      {
+        "type": "screenshotDetails",
+        "className": "bg-[#f7f7f7]!",
+        "image": "/images/2025/06/image-259-1.webp",
+        "imageAlign": "left",
+        "header": {
+          "heading": "Our Approach",
+          "description": "We began by simplifying the journey. Every product page was rebuilt to focus on benefits and buying confidence. We added bold visuals, clean layouts, and real customer proof in the form of reviews and UGC, helping potential customers see themselves in the product.<br /><br />From the homepage to checkout, we trimmed friction and gave clarity to every offer.<br /><br />We then introduced custom bundle options, allowing users to mix flavors, stack savings, and get more value out of each order. These offers, paired with a fully redesigned cart and upsell experience, helped push AOV significantly higher."
+        },
+        "details": []
+      },
+      {
+        "type": "headingDescription",
+        "heading": "Building More Than a Store <br /> Building a Community",
+        "description": "This wasn’t just about selling more gummies. We helped Create deepen its connection with loyal fans.<br /><br />We designed and launched an integrated referral program and ambassador program, giving real incentives to spread the word. Users felt like part of the brand, not just buyers.<br /><br />Custom landers were also created to align with seasonal drops, influencer partnerships, and launch campaigns, giving the team conversion-ready templates they could use again and again."
+      },
+      {
+        "type": "image",
+        "alt": "Create Wellness product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/Frame-1000001673-3.webp"
+      },
+      {
+        "type": "headingDescription",
+        "heading": "Results That Stick (Like Their <br /> Gummies)",
+        "description": "",
+        "listItems": [
+          "+58% increase in conversion rate",
+          "+46% growth in AOV with custom bundles &amp; upsells",
+          "+32% returning customer rate after referral &amp; ambassador programs",
+          "+41% increase in checkout completions",
+          "UGC blocks increased PDP engagement by 2.3x"
+        ]
+      },
+      {
+        "type": "headingDescription",
+        "heading": "The Outcome",
+        "description": "Create Wellness now has a storefront that converts like its product hits—fast and effective. From site structure to loyalty systems, we helped turn curious clicks into confident customers and happy buyers into loyal brand ambassadors.<br /><br />The store doesn’t just look good, it’s built to perform."
+      }
+    ]
+  },
+  "ag1": {
+    "name": "Ag1",
+    "slug": "ag1",
+    "cardDescription": "Custom Shopify Setup Boosting Subscription Growth by 63%",
+    "descriptionPrimary": "+63% Growth in Subscriber Conversions",
+    "descriptionSecondary": "with a Smarter Subscription Experience for AG1",
+    "card": {
+      "image": "/images/2025/06/Listing-Image-3-1-e1763482442682.webp",
+      "alt": "Screenshot of Ag1 store – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "Ag1 product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/image-262.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Challenge",
+            "description": "AG1, a leader in daily health supplements, is known for its all-in-one drink packed with essential nutrients. While the product had strong market trust, the website experience didn’t fully reflect the value of subscribing and the path to purchase wasn’t as intuitive as it could be. We were brought in to simplify the user journey, increase conversions, and drive subscription growth.",
+            "listHeading": "What We Did",
+            "listItems": [
+              "UX Design & Shopify Store Development",
+              "Conversion Rate Optimization (CRO)",
+              "Packs & Bundles Strategy",
+              "Subscription Modeling & Value Framing",
+              "Referral Program Integration",
+              "Custom PDPs & Smart Offers",
+              "AOV Optimization with Upsells"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "videoUrl": "/images/2025/06/AG1-Mockup-Video.mp4"
+      },
+      {
+        "type": "screenshotDetails",
+        "className": "bg-[#f7f7f7]!",
+        "image": "/images/2025/06/image-261-1.webp",
+        "imageAlign": "left",
+        "header": {
+          "heading": "Our Approach",
+          "description": "We started by rethinking the core experience around AG1’s strongest asset, the subscription. Instead of hiding the value in dropdowns or tabs, we pulled it forward: clear benefit callouts, cost-per-serving math, and dynamic badges showing the best value plan.<br /><br />Each product page was rebuilt to communicate simplicity and science-backed benefits. The design walked users through what’s inside, how to take it, and most importantly, why subscribing makes sense.<br /><br />We also built flexible packs &amp; bundles, so one-time buyers could try more and spend more naturally, lifting AOV."
+        },
+        "details": []
+      },
+      {
+        "type": "headingDescription",
+        "heading": "Retention Starts Before Checkout",
+        "description": "We didn’t wait until post-purchase to drive loyalty.<br /><br />We framed the subscription offer to be the default smart choice using comparison charts, micro-commitment messaging, and bundled rewards like free gear and faster shipping.<br /><br />We also integrated a referral program directly into the post-purchase journey, so subscribers could easily invite others and earn perks, a perfect fit for AG1’s community-driven brand."
+      },
+      {
+        "type": "image",
+        "alt": "Ag1 product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/Frame-1000001673-4.webp"
+      },
+      {
+        "type": "headingDescription",
+        "heading": "Results That Go Beyond Just <br /> Looks",
+        "description": "",
+        "listItems": [
+          "+63% increase in subscriber conversion rate",
+          "+37% boost in AOV with bundles and upsell offers",
+          "-28% drop in checkout abandonment",
+          "+49% uplift in referral-driven traffic and orders",
+          "+55% revenue growth YoY from the optimized subscription funnel"
+        ]
+      },
+      {
+        "type": "headingDescription",
+        "heading": "Final Takeaway",
+        "description": "AG1’s store now mirrors what the product delivers: clarity, simplicity, and lasting value. Every touchpoint from homepage to checkout now works harder to educate, convert, and retain.<br /><br />Subscriptions feel like a no-brainer. And the business growth backs it up."
+      }
+    ]
+  },
+  "psd": {
+    "name": "PSD",
+    "slug": "psd",
+    "cardDescription": "Achieves +78% AOV Growth with Custom Bundle Builder",
+    "descriptionPrimary": "+78% AOV Growth for",
+    "descriptionSecondary": "PSD with Packs, Rewards & a Custom Bundle Builder Experience",
+    "card": {
+      "image": "/images/2025/06/Listing-Image-4-1-e1763482464894.webp",
+      "alt": "Screenshot of PSD store – Designed and developed by 100xelevate.",
+      "width": 880,
+      "height": 970
+    },
+    "sections": [
+      {
+        "type": "image",
+        "alt": "PSD product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/Frame-1000001684-1.webp"
+      },
+      {
+        "type": "listHeadingDescription",
+        "sectionItems": [
+          {
+            "heading": "The Challenge",
+            "description": "PSD is a bold, culture-forward underwear brand loved by athletes, influencers, and style leaders. Their product? Comfortable, premium, and impossible to ignore. But their Shopify store wasn’t fully optimized for conversion or upsell, and with such a diverse catalog, the brand was missing key opportunities to increase Average Order Value (AOV) and boost customer retention.",
+            "listHeading": "What We Did",
+            "listItems": [
+              "UX Design",
+              "Shopify Store Development",
+              "Conversion Rate Optimization",
+              "AOV Strategy Implementation",
+              "Packs &amp; Limited-Time Offers",
+              "Custom Bundle Builder",
+              "Rewards System",
+              "Wholesale Setup",
+              "Affiliate Program Support",
+              "Custom PDPs, Header &amp; Cart Upsell Logic"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "videoUrl": "/images/2025/06/PSD-Mockup-Video.mp4"
+      },
+      {
+        "type": "screenshotDetails",
+        "className": "bg-[#f7f7f7]!",
+        "image": "/images/2025/06/image-263.webp",
+        "imageAlign": "left",
+        "header": {
+          "heading": "Our Approach",
+          "description": "We kicked things off by diving into what makes PSD customers tick, the designs, the feel, the mix &amp; match experience. Using that insight, we rebuilt the store with a design that matched the brand’s energy and guided users toward higher-value carts.<br /><br />We introduced a custom bundle builder that made it easy (and fun) to buy more with better value. The design was clean and mobile-friendly, and the logic supported dynamic discounts to encourage larger purchases.<br /><br />On top of that, we crafted limited-time event packs for new drops and major sales, driving urgency and click-through from both organic and paid channels."
+        },
+        "details": []
+      },
+      {
+        "type": "headingDescription",
+        "heading": "Loyalty, Upsells &amp; Wholesale That <br /> Convert",
+        "description": "We didn’t stop at the storefront. To keep AOV high and boost lifetime value, we rolled out:",
+        "listItems": [
+          "A rewards program that felt native to the brand",
+          "Smart upsells in the cart drawer",
+          "A fully integrated wholesale portal for larger partners",
+          "Backend setup to support affiliate campaigns and drive influencer-led growth"
+        ],
+        "descriptionAfterList": "Every move was intentional, making it easier for first-time buyers to become repeat customers and for loyal fans to spend more per session."
+      },
+      {
+        "type": "image",
+        "alt": "PSD product section – Designed and developed by 100xelevate.",
+        "image": "/images/2025/06/Frame-1000001673-5.webp"
+      },
+      {
+        "type": "headingDescription",
+        "heading": "The Impact",
+        "description": "With these changes, PSD saw results that made a direct impact on revenue:",
+        "listItems": [
+          "+78% growth in Average Order Value",
+          "+36% increase in conversion rate from the previous design",
+          "3.5x more bundle orders within the first 60 days",
+          "+40% increase in wholesale interest &amp; inquiries",
+          "+51% returning customer rate with the help of rewards &amp; personalized email campaign"
+        ]
+      },
+      {
+        "type": "headingDescription",
+        "heading": "Final Word",
+        "description": "PSD already had a winning product. We gave them the backend and frontend strategy to match one that doesn’t just look good but sells better. From bold bundles to smarter upsells, this Shopify Plus store is now built to move product, maximize AOV, and reward loyal fans."
+      }
+    ]
+  }
+}
