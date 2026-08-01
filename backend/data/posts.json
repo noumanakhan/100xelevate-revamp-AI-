@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "slug": "future-of-generative-engine-optimization-2026",
+    "date": "2026-07-15T10:00:00",
+    "modified": "2026-07-15T10:00:00",
+    "title": { "rendered": "The Future of Generative Engine Optimization (GEO) in 2026" },
+    "excerpt": { "rendered": "Learn how AI search engines like ChatGPT, Gemini, and Perplexity are reshaping SEO and brand discovery." },
+    "content": { "rendered": "<p>Search engines are no longer just lists of links. AI agents synthesize complex answers directly for users. Generative Engine Optimization (GEO) ensures your brand is quoted, cited, and recommended in AI responses.</p><h2>Key Strategies for GEO</h2><ul><li>Entity Citation Optimization</li><li>Structured Fact Schema</li><li>LLM Contextual Positioning</li></ul>" },
+    "featured_media": 1,
+    "categories": [1],
+    "tags": [1, 2],
+    "yoast_head_json": {
+      "title": "The Future of Generative Engine Optimization (GEO) in 2026",
+      "description": "Learn how AI search engines are reshaping SEO."
+    },
+    "_embedded": {
+      "wp:featuredmedia": [
+        {
+          "source_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200",
+          "alt_text": "Generative Engine Optimization"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "slug": "migrating-wordpress-to-nextjs-fastapi",
+    "date": "2026-07-20T14:30:00",
+    "modified": "2026-07-20T14:30:00",
+    "title": { "rendered": "Why Modern Brands are Migrating WordPress to Next.js + FastAPI" },
+    "excerpt": { "rendered": "Unlocking 100/100 Lighthouse performance and AI chatbot capabilities with Python FastAPI and Next.js." },
+    "content": { "rendered": "<p>Monolithic WordPress sites often suffer from slow page loads and security vulnerabilities. By decoupling your frontend into Next.js and backend into Python FastAPI, you achieve lightning speed and seamless AI integration.</p>" },
+    "featured_media": 2,
+    "categories": [2],
+    "tags": [3],
+    "yoast_head_json": {
+      "title": "Migrating WordPress to Next.js + FastAPI",
+      "description": "Unlocking speed and AI integration."
+    },
+    "_embedded": {
+      "wp:featuredmedia": [
+        {
+          "source_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1200",
+          "alt_text": "Next.js and FastAPI migration"
+        }
+      ]
+    }
+  }
+]

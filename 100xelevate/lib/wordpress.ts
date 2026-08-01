@@ -1,4 +1,9 @@
+const rawFastApiBase = process.env.NEXT_PUBLIC_API_BASE_URL || "http://localhost:8000/api/v1";
+const FASTAPI_BASE = rawFastApiBase.replace(/\/$/, "").endsWith("/api/v1")
+  ? rawFastApiBase.replace(/\/$/, "")
+  : `${rawFastApiBase.replace(/\/$/, "")}/api/v1`;
 const WP_API_BASE = "https://100xelevate.com/wp-json/wp/v2";
+
 
 export interface WPPost {
   id: number;
@@ -39,6 +44,25 @@ export async function getPosts(params?: {
 }): Promise<{ posts: WPPost[]; total: number; totalPages: number }> {
   const { page = 1, perPage = 10, categorySlug, search } = params ?? {};
 
+  // Try FastAPI Backend First
+  try {
+    const fastApiUrl = new URL(`${FASTAPI_BASE}/posts`);
+    fastApiUrl.searchParams.set("page", String(page));
+    fastApiUrl.searchParams.set("per_page", String(perPage));
+    if (search) fastApiUrl.searchParams.set("search", search);
+
+    const fastRes = await fetch(fastApiUrl.toString(), { cache: "no-store" });
+    if (fastRes.ok) {
+      const data = await fastRes.json();
+      if (data && data.posts && data.posts.length > 0) {
+        return data;
+      }
+    }
+  } catch (e) {
+    // FastAPI offline, proceed to WordPress fallback
+  }
+
+  // WordPress Fallback
   const url = new URL(`${WP_API_BASE}/posts`);
   url.searchParams.set("page", String(page));
   url.searchParams.set("per_page", String(perPage));
@@ -66,6 +90,17 @@ export async function getPosts(params?: {
 }
 
 export async function getPostBySlug(slug: string): Promise<WPPost | null> {
+  // Try FastAPI Backend First
+  try {
+    const fastRes = await fetch(`${FASTAPI_BASE}/posts/${slug}`, { cache: "no-store" });
+    if (fastRes.ok) {
+      const post = await fastRes.json();
+      if (post && post.slug) return post;
+    }
+  } catch (e) {
+    // FastAPI offline, proceed to WordPress fallback
+  }
+
   const res = await fetch(
     `${WP_API_BASE}/posts?slug=${slug}&_embed=1`,
     { next: { revalidate: 3600 } }
@@ -78,6 +113,16 @@ export async function getPostBySlug(slug: string): Promise<WPPost | null> {
 }
 
 export async function getAllPostSlugs(): Promise<string[]> {
+  try {
+    const fastRes = await fetch(`${FASTAPI_BASE}/posts/slugs`, { cache: "no-store" });
+    if (fastRes.ok) {
+      const slugs = await fastRes.json();
+      if (Array.isArray(slugs) && slugs.length > 0) return slugs;
+    }
+  } catch (e) {
+    // Fallback
+  }
+
   const slugs: string[] = [];
   let page = 1;
   const perPage = 100;
@@ -102,6 +147,15 @@ export async function getAllPostSlugs(): Promise<string[]> {
 }
 
 export async function getCategories(): Promise<WPCategory[]> {
+  try {
+    const fastRes = await fetch(`${FASTAPI_BASE}/categories`, { cache: "no-store" });
+    if (fastRes.ok) {
+      return await fastRes.json();
+    }
+  } catch (e) {
+    // Fallback
+  }
+
   const res = await fetch(`${WP_API_BASE}/categories?per_page=100`, {
     next: { revalidate: 3600 },
   });
@@ -109,3 +163,4 @@ export async function getCategories(): Promise<WPCategory[]> {
   if (!res.ok) return [];
   return res.json();
 }
+
