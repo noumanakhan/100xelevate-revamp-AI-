@@ -1,5 +1,29 @@
+# Environment variables
+.env
+.env*
+!.env.example
+
+# Python virtual environments & bytecode
+.venv
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node dependencies & Next.js build outputs
+node_modules/
+.next/
+out/
+build/
+coverage/
+
+# IDE & OS files
+.DS_Store
+*.log
+*.tsbuildinfo
+
+# Legacy / clone directories
 /100xelevate-clone
-
-
 codieshub/
-backend/.env

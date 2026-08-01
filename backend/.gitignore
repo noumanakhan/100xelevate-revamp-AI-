@@ -1,0 +1,11 @@
+# Python environment & cache
+.env
+.env*
+!.env.example
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Local vectorstore storage
+vectorstore/
