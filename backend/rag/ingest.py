@@ -1,4 +1,5 @@
 import os
+import time
 import glob
 from langchain_community.document_loaders import TextLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
@@ -44,27 +45,53 @@ def ingest_documents():
         google_api_key=settings.GEMINI_API_KEY
     )
 
-    # Ingesting into PostgreSQL (Supabase pgvector) or FAISS fallback
+    batch_size = 40
+    total_chunks = len(chunks)
+    
+    print(f"[Ingest] Indexing into PostgreSQL pgvector (Supabase) in batches of {batch_size}...")
+
     try:
         from langchain_postgres.vectorstores import PGVector
-        print(f"[Ingest] Indexing into PostgreSQL pgvector (Supabase)...")
+        
+        # Initialize vectorstore with first batch
+        first_batch = chunks[:batch_size]
+        print(f"[Ingest] Ingesting batch 1 (chunks 1 to {len(first_batch)})...")
         vector_store = PGVector.from_documents(
-            documents=chunks,
+            documents=first_batch,
             embedding=embeddings,
             connection=settings.DATABASE_URL,
             collection_name=settings.PG_COLLECTION_NAME,
             use_jsonb=True
         )
-        print("[Ingest] Successfully ingested into Supabase pgvector!")
+
+        # Ingest remaining chunks with rate-limit pauses
+        for i in range(batch_size, total_chunks, batch_size):
+            batch = chunks[i:i + batch_size]
+            batch_num = (i // batch_size) + 1
+            print(f"[Ingest] Pausing 10 seconds to satisfy Gemini API rate limit...")
+            time.sleep(10)
+            print(f"[Ingest] Ingesting batch {batch_num} (chunks {i + 1} to {i + len(batch)})...")
+            vector_store.add_documents(batch)
+
+        print("[Ingest] Successfully ingested all chunks into Supabase pgvector!")
         return True
+
     except Exception as e:
         print(f"[Notice] PostgreSQL pgvector connection notice: {e}")
         print("[Ingest] Falling back to local FAISS vector store...")
         try:
             from langchain_community.vectorstores import FAISS
+            vector_store = None
+            for i in range(0, total_chunks, batch_size):
+                batch = chunks[i:i + batch_size]
+                if vector_store is None:
+                    vector_store = FAISS.from_documents(batch, embeddings)
+                else:
+                    time.sleep(10)
+                    vector_store.add_documents(batch)
+            
             faiss_dir = os.path.join(os.path.dirname(__file__), "..", "vectorstore")
             os.makedirs(faiss_dir, exist_ok=True)
-            vector_store = FAISS.from_documents(chunks, embeddings)
             vector_store.save_local(os.path.join(faiss_dir, "faiss_index"))
             print("[Ingest] Saved local FAISS vector store fallback!")
             return True
